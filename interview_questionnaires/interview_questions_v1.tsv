@@ -1,4 +1,4 @@
-Study_Program	Question	Time (seconds)
+Study_Program	Question	Time
 Interview for Master's degree in Biomedical Engineering	Describe a specific medical device that you believe needs significant improvement and how you would approach it.	90
 Interview for Master's degree in Biomedical Engineering	How do you balance the trade-off between functionality and biocompatibility in material selection?	60
 Interview for Master's degree in Biomedical Engineering	Explain the concept of tissue engineering to someone without a medical background.	60
@@ -365,4 +365,5 @@ Interview for Marine Studies	What are the primary safety hazards in the engine r
 Interview for Marine Studies	How does international maritime law affect shipping routes?	90
 Interview for Marine Studies	What is the function of the ballast water system?	60
 Interview for Marine Studies	Describe the principle of buoyancy.	60
+
 Interview for Marine Studies	How do environmental regulations impact fuel choices for ships?	90

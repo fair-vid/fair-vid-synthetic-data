@@ -7,22 +7,22 @@ Master's degree in Biomedical Engineering 🧬	Discuss a recent breakthrough in 
 Master's degree in Biomedical Engineering 🧬	How do you plan to handle the ethical considerations involved in genetic engineering or human trials?	90
 Master's degree in Biomedical Engineering 🧬	What programming languages or software tools have you used for biological data analysis?	45
 Master's degree in Biomedical Engineering 🧬	Where do you see the intersection of AI and biomedical engineering in the next decade?	90
-Master's degree in Aerospace Engineering	How does the Reynolds number influence the design of an airfoil?	60
-Master's degree in Aerospace Engineering	Discuss the primary challenges in developing sustainable aviation fuels.	90
-Master's degree in Aerospace Engineering	What materials would you select for a high-stress turbine blade and why?	60
-Master's degree in Aerospace Engineering	Explain the difference between static and dynamic stability in aircraft design.	60
-Master's degree in Aerospace Engineering	How would you approach the thermal management of a satellite in orbit?	90
-Master's degree in Aerospace Engineering	What is your opinion on the commercialization of space travel?	90
-Master's degree in Aerospace Engineering	Describe a time you had to troubleshoot a mechanical failure in a project.	120
-Master's degree in Aerospace Engineering	How do computational fluid dynamics (CFD) simulations compare to wind tunnel testing?	90
-Master's degree in Electronics Engineering	Explain the difference between a microcontroller and a microprocessor.	60
-Master's degree in Electronics Engineering	How would you reduce noise in a sensitive analog signal path?	90
-Master's degree in Electronics Engineering	What are the advantages of using FPGA over traditional ASICs in prototyping?	60
-Master's degree in Electronics Engineering	Describe the latest trends in semiconductor manufacturing that interest you.	60
-Master's degree in Electronics Engineering	How do you approach power management in battery-operated IoT devices?	90
-Master's degree in Electronics Engineering	Can you explain the significance of bandgap in semiconductor materials?	60
-Master's degree in Electronics Engineering	What was the most complex circuit you have designed and tested?	120
-Master's degree in Electronics Engineering	How do communication protocols like SPI and I2C differ in application?	60
+Master's degree in Aerospace Engineering 🛰️	How does the Reynolds number influence the design of an airfoil?	60
+Master's degree in Aerospace Engineering 🛰️	Discuss the primary challenges in developing sustainable aviation fuels.	90
+Master's degree in Aerospace Engineering 🛰️	What materials would you select for a high-stress turbine blade and why?	60
+Master's degree in Aerospace Engineering 🛰️	Explain the difference between static and dynamic stability in aircraft design.	60
+Master's degree in Aerospace Engineering 🛰️	How would you approach the thermal management of a satellite in orbit?	90
+Master's degree in Aerospace Engineering 🛰️	What is your opinion on the commercialization of space travel?	90
+Master's degree in Aerospace Engineering 🛰️	Describe a time you had to troubleshoot a mechanical failure in a project.	120
+Master's degree in Aerospace Engineering 🛰️	How do computational fluid dynamics (CFD) simulations compare to wind tunnel testing?	90
+Master's degree in Electronics Engineering ⚡	Explain the difference between a microcontroller and a microprocessor.	60
+Master's degree in Electronics Engineering ⚡	How would you reduce noise in a sensitive analog signal path?	90
+Master's degree in Electronics Engineering ⚡	What are the advantages of using FPGA over traditional ASICs in prototyping?	60
+Master's degree in Electronics Engineering ⚡	Describe the latest trends in semiconductor manufacturing that interest you.	60
+Master's degree in Electronics Engineering ⚡	How do you approach power management in battery-operated IoT devices?	90
+Master's degree in Electronics Engineering ⚡	Can you explain the significance of bandgap in semiconductor materials?	60
+Master's degree in Electronics Engineering ⚡	What was the most complex circuit you have designed and tested?	120
+Master's degree in Electronics Engineering ⚡	How do communication protocols like SPI and I2C differ in application?	60
 Msc in Environmental Engineering and Management	What strategies would you propose for effective solid waste management in a dense urban area?	90
 Msc in Environmental Engineering and Management	Explain the concept of Life Cycle Assessment (LCA) and its importance.	60
 Msc in Environmental Engineering and Management	How does climate change impact water resource management in your region?	90
@@ -183,11 +183,11 @@ Master's degree in Structural Engineering 2	How do you calculate the bending mom
 Master's degree in Structural Engineering 2	What is the purpose of expansion joints in long concrete structures?	60
 Master's degree in Structural Engineering 2	Explain the concept of prestressed concrete and its benefits.	60
 Master's degree in Structural Engineering 2	How does wind load calculation change as building height increases?	60
-Master's degree in Aerospace Engineering 2	What are the key factors in selecting an airfoil shape for a wing?	60
-Master's degree in Aerospace Engineering 2	How does a jet engine produce thrust?	60
-Master's degree in Aerospace Engineering 2	What are the challenges of hypersonic flight?	90
-Master's degree in Aerospace Engineering 2	Explain the four forces of flight.	45
-Master's degree in Aerospace Engineering 2	How do composite materials contribute to fuel efficiency?	60
+Master's degree in Aerospace Engineering 🛰️ 2	What are the key factors in selecting an airfoil shape for a wing?	60
+Master's degree in Aerospace Engineering 🛰️ 2	How does a jet engine produce thrust?	60
+Master's degree in Aerospace Engineering 🛰️ 2	What are the challenges of hypersonic flight?	90
+Master's degree in Aerospace Engineering 🛰️ 2	Explain the four forces of flight.	45
+Master's degree in Aerospace Engineering 🛰️ 2	How do composite materials contribute to fuel efficiency?	60
 Electrical Power and Renewable Energy Engineering2	What are the environmental impacts of large-scale hydroelectric dams?	90
 Electrical Power and Renewable Energy Engineering2	How does a photovoltaic cell convert light into electricity?	60
 Electrical Power and Renewable Energy Engineering2	What is the role of an inverter in a solar energy system?	60
@@ -362,6 +362,7 @@ Marine Studies	How does international maritime law affect shipping routes?	90
 Marine Studies	What is the function of the ballast water system?	60
 Marine Studies	Describe the principle of buoyancy.	60
 Marine Studies	How do environmental regulations impact fuel choices for ships?	90
+
 
 
 

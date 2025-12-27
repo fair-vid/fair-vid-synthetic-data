@@ -31,7 +31,7 @@ All data in this repository is **synthetically generated or heavily anonymized**
 
 Typical contents include:
 
-
+```
 data/
 ├── video/
 │ ├── synthetic_interviews/
@@ -51,7 +51,7 @@ data/
 ├── timestamps/
 ├── landmarks/
 └── labels/
-
+```
 
 Depending on the dataset version, not all folders may be present.
 

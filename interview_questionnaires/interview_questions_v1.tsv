@@ -246,23 +246,23 @@ PhD Interview	How does your proposed research contribute to the existing body of
 PhD Interview	What methodology do you plan to use for your data collection?	90
 PhD Interview	Why did you choose this university for your doctoral studies?	60
 PhD Interview	How do you plan to fund your research activities?	60
-a Scholarship Creative/Architecture	Who is your favorite architect or artist and why?	60
-a Scholarship Creative/Architecture	Describe your creative process from concept to final design.	120
-a Scholarship Creative/Architecture	How do you handle criticism of your creative work?	90
-a Scholarship Creative/Architecture	What role does sustainability play in your design philosophy?	90
-a Scholarship Business/Finance	What is the biggest financial challenge facing the global economy today?	90
-a Scholarship Business/Finance	How do you demonstrate leadership in a business setting?	90
-a Scholarship Business/Finance	Describe a complex financial concept to a layperson.	90
-a Scholarship Business/Finance	What are your entrepreneurial ambitions?	60
-a Master's in AI Systems	What is the difference between supervised and unsupervised learning?	60
-a Master's in AI Systems	Explain the concept of a neural network.	60
-a Master's in AI Systems	What are the ethical implications of facial recognition technology?	90
-a Master's in AI Systems	How does Natural Language Processing (NLP) work?	90
-a Master's in AI Systems	What is overfitting in a machine learning model and how do you prevent it?	90
-a Bachelor's degree 3	What do you do in your free time that helps you relax?	45
-a Bachelor's degree 3	If you could solve one world problem, what would it be?	60
-a Bachelor's degree 3	How do you prioritize your tasks when you are overwhelmed?	60
-a Bachelor's degree 3	What is a skill you taught yourself recently?	60
+Scholarship Creative/Architecture	Who is your favorite architect or artist and why?	60
+Scholarship Creative/Architecture	Describe your creative process from concept to final design.	120
+Scholarship Creative/Architecture	How do you handle criticism of your creative work?	90
+Scholarship Creative/Architecture	What role does sustainability play in your design philosophy?	90
+Scholarship Business/Finance	What is the biggest financial challenge facing the global economy today?	90
+Scholarship Business/Finance	How do you demonstrate leadership in a business setting?	90
+Scholarship Business/Finance	Describe a complex financial concept to a layperson.	90
+Scholarship Business/Finance	What are your entrepreneurial ambitions?	60
+Master's in AI Systems	What is the difference between supervised and unsupervised learning?	60
+Master's in AI Systems	Explain the concept of a neural network.	60
+Master's in AI Systems	What are the ethical implications of facial recognition technology?	90
+Master's in AI Systems	How does Natural Language Processing (NLP) work?	90
+Master's in AI Systems	What is overfitting in a machine learning model and how do you prevent it?	90
+Bachelor's degree 3	What do you do in your free time that helps you relax?	45
+Bachelor's degree 3	If you could solve one world problem, what would it be?	60
+Bachelor's degree 3	How do you prioritize your tasks when you are overwhelmed?	60
+Bachelor's degree 3	What is a skill you taught yourself recently?	60
 MA in Communication of Creative Society	How has social media changed the landscape of professional communication?	90
 MA in Communication of Creative Society	What is the role of creativity in crisis communication?	90
 MA in Communication of Creative Society	How do you measure the impact of a communication campaign?	90
@@ -275,10 +275,10 @@ MA in Communication of Creative Society 2	How do you tailor a message for differ
 MA in Communication of Creative Society 2	What is the future of storytelling in the age of AI?	90
 MA in Communication of Creative Society 2	Describe a communication project you managed successfully.	120
 MA in Communication of Creative Society 2	Why is visual literacy important in modern society?	60
-a Scholarship Business/Finance 2	Describe a financial trend that you are currently following.	60
-a Scholarship Business/Finance 2	How would you invest a hypothetical $10,000 today?	90
-a Scholarship Business/Finance 2	What qualities define an ethical business leader?	60
-a Scholarship Business/Finance 2	How does this scholarship fit into your 5-year plan?	90
+Scholarship Business/Finance 2	Describe a financial trend that you are currently following.	60
+Scholarship Business/Finance 2	How would you invest a hypothetical $10,000 today?	90
+Scholarship Business/Finance 2	What qualities define an ethical business leader?	60
+Scholarship Business/Finance 2	How does this scholarship fit into your 5-year plan?	90
 Master's degree in Automotive Engineering 2	What are the challenges of battery recycling for electric vehicles?	90
 Master's degree in Automotive Engineering 2	How does vehicle-to-everything (V2X) communication improve safety?	90
 Master's degree in Automotive Engineering 2	Explain the operation of a hybrid powertrain.	60
@@ -316,10 +316,10 @@ Master's degree in Data Science and Statistics 2	What is the bias-variance trade
 Master's degree in Data Science and Statistics 2	Explain the concept of p-value to a non-statistician.	60
 Master's degree in Data Science and Statistics 2	How does A/B testing work?	60
 Master's degree in Data Science and Statistics 2	What is the difference between correlation and causation?	60
-a Master's in AI Systems 2	What are the security vulnerabilities of AI systems (e.g., adversarial attacks)?	90
-a Master's in AI Systems 2	How can AI be used to optimize energy consumption?	90
-a Master's in AI Systems 2	What is the role of edge computing in AI deployment?	60
-a Master's in AI Systems 2	Describe a project where you used computer vision.	120
+Master's in AI Systems 2	What are the security vulnerabilities of AI systems (e.g., adversarial attacks)?	90
+Master's in AI Systems 2	How can AI be used to optimize energy consumption?	90
+Master's in AI Systems 2	What is the role of edge computing in AI deployment?	60
+Master's in AI Systems 2	Describe a project where you used computer vision.	120
 Master's degree in Digital Twin Technology	How does a digital twin differ from a standard 3D simulation?	90
 Master's degree in Digital Twin Technology	What role does the Internet of Things (IoT) play in digital twins?	60
 Master's degree in Digital Twin Technology	How can digital twins be used for predictive maintenance?	90
@@ -362,6 +362,7 @@ Marine Studies	How does international maritime law affect shipping routes?	90
 Marine Studies	What is the function of the ballast water system?	60
 Marine Studies	Describe the principle of buoyancy.	60
 Marine Studies	How do environmental regulations impact fuel choices for ships?	90
+
 
 
 

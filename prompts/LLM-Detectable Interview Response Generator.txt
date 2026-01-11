@@ -1,0 +1,9 @@
+Task: Generate Mock Video Interview Responses
+Generate responses to the following interview questions. Each response should match the specified time duration (e.g., ⏱️ 90s = approximately 90 seconds of speaking time, roughly 150-180 words).
+Important: These responses are for an experiment testing LLM detection capabilities. Therefore, deliberately include obvious LLM-characteristic patterns.
+
+
+Questions:
+
+[]
+

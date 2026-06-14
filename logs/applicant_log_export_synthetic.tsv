@@ -1,0 +1,107 @@
+id	logged	event	bind	applicant	application	course	institution	administrator	offer	document	invoice	tracker	flag	activity	category
+1353228	2024-11-14T22:42:50+02:00	Application was created by cloning	['22374']	61823	823332									application_created	other
+1353229	2024-11-14T22:42:50+02:00	Course was added to application	[]	61823	823332	298482	266788							course_added	other
+1355912	2024-11-28T23:00:22+02:00	Application was marked as inactive	[]	61823	823332									application was marked as inactive -> []	other
+1416557	2025-02-16T10:58:54+02:00	Tracker was added	['ALOHA']	61823	823332							719776		tracker was added -> ['aloha']	other
+1454743	2025-04-09T12:10:30+03:00	Course was added to application	[]	61823	823332	298490	266788							course_added	other
+1454744	2025-04-09T12:13:28+03:00	Course was added to application	[]	61823	823332	298404	266788							course_added	other
+1454745	2025-04-09T12:14:02+03:00	Course was added to application	[]	61823	823332	298497	266788							course_added	other
+1471949	2025-04-20T21:09:03+03:00	Application was edited	[]	61823	823332									application_edit	ui
+1471950	2025-04-20T21:09:03+03:00	Course was removed from application	[]	61823	823332	298482	266788							course was removed from application -> []	other
+1471951	2025-04-20T21:09:09+03:00	Course was removed from application	[]	61823	823332	298490	266788							course was removed from application -> []	other
+1471952	2025-04-20T21:09:13+03:00	Course was removed from application	[]	61823	823332	298404	266788							course was removed from application -> []	other
+1471954	2025-04-20T21:10:12+03:00	Course was added to application	[]	61823	823332	298419	266788							course_added	other
+1471994	2025-04-20T21:30:13+03:00	Referee was invited	[]	61823	823332									referee was invited -> []	other
+1471995	2025-04-20T21:30:13+03:00	Referee was added to an application	[]	61823	823332									referee was added to an application -> []	other
+1471996	2025-04-20T21:31:04+03:00	Referee was invited	[]	61823	823332									referee was invited -> []	other
+1471997	2025-04-20T21:31:04+03:00	Referee was added to an application	[]	61823	823332									referee was added to an application -> []	other
+1472002	2025-04-20T21:32:12+03:00	Referee was invited	[]	61823	823332									referee was invited -> []	other
+1472003	2025-04-20T21:32:12+03:00	Referee was added to an application	[]	61823	823332									referee was added to an application -> []	other
+1472183	2025-04-20T22:21:50+03:00	Referee committed reference	[]	61823	823332									referee committed reference -> []	other
+1472361	2025-04-20T23:16:21+03:00	Application was edited	[]	61823	823332									application_edit	ui
+1472645	2025-04-20T23:54:58+03:00	Document was removed	[]	61823	823332					943320				document was removed -> []	other
+1472646	2025-04-20T23:55:02+03:00	Document was removed	[]	61823	823332					943321				document was removed -> []	other
+1472653	2025-04-20T23:55:51+03:00	Document was uploaded	[]	61823	823332					1102556				document was uploaded -> []	other
+1472654	2025-04-20T23:55:51+03:00	Document was uploaded	[]	61823	823332					1102557				document was uploaded -> []	other
+1472655	2025-04-20T23:55:51+03:00	Document was uploaded	[]	61823	823332					1102558				document was uploaded -> []	other
+1472656	2025-04-20T23:55:52+03:00	Document was uploaded	[]	61823	823332					1102559				document was uploaded -> []	other
+1472657	2025-04-20T23:55:52+03:00	Document was uploaded	[]	61823	823332					1102560				document was uploaded -> []	other
+1472658	2025-04-20T23:55:52+03:00	Document was uploaded	[]	61823	823332					1102561				document was uploaded -> []	other
+1472659	2025-04-20T23:55:52+03:00	Document was uploaded	[]	61823	823332					1102562				document was uploaded -> []	other
+1472660	2025-04-20T23:55:52+03:00	Document was uploaded	[]	61823	823332					1102563				document was uploaded -> []	other
+1472662	2025-04-20T23:55:55+03:00	Document was uploaded	[]	61823	823332					1102564				document was uploaded -> []	other
+1472663	2025-04-20T23:55:55+03:00	Document was uploaded	[]	61823	823332					1102565				document was uploaded -> []	other
+1472664	2025-04-20T23:55:56+03:00	Document was uploaded	[]	61823	823332					1102566				document was uploaded -> []	other
+1472665	2025-04-20T23:56:01+03:00	Document was uploaded	[]	61823	823332					1102567				document was uploaded -> []	other
+1472666	2025-04-20T23:56:01+03:00	Document was uploaded	[]	61823	823332					1102568				document was uploaded -> []	other
+1472667	2025-04-20T23:56:01+03:00	Document was uploaded	[]	61823	823332					1102569				document was uploaded -> []	other
+1472671	2025-04-20T23:56:40+03:00	Document was uploaded	[]	61823	823332					1102570				document was uploaded -> []	other
+1472672	2025-04-20T23:56:40+03:00	Document was uploaded	[]	61823	823332					1102571				document was uploaded -> []	other
+1472673	2025-04-20T23:56:40+03:00	Document was uploaded	[]	61823	823332					1102572				document was uploaded -> []	other
+1472674	2025-04-20T23:56:41+03:00	Document was uploaded	[]	61823	823332					1102573				document was uploaded -> []	other
+1472690	2025-04-21T00:01:49+03:00	Task was resolved as: ?	['I have attached all the required documents to my application']	61823	823332									task_resolved	other
+1472691	2025-04-21T00:01:53+03:00	Task was resolved as: ?	['The original documents are in an accepted language']	61823	823332									task_resolved	other
+1472692	2025-04-21T00:02:00+03:00	Task was resolved as: ?	['I have attached my passport']	61823	823332									check_passport_resolved	verification
+1472696	2025-04-21T00:02:03+03:00	Task was resolved as: ?	['I have fulfilled the requirements']	61823	823332									task_resolved	other
+1472699	2025-04-21T00:02:10+03:00	Task was resolved as: ?	['I have attached sufficient proof of my English level']	61823	823332									task_resolved	other
+1472700	2025-04-21T00:02:26+03:00	Task was resolved as: ?	['I have attached all the required documents to my application']	61823	823332									task_resolved	other
+1472701	2025-04-21T00:02:37+03:00	Task was resolved as: ?	['I have received my references']	61823	823332									task_resolved	other
+1472703	2025-04-21T00:02:43+03:00	Task was committed as: ?	['I have asked for references']	61823	823332									task_committed	communication
+1472706	2025-04-21T00:03:19+03:00	Application was submitted	[]	61823	823332									application was submitted -> []	other
+1472707	2025-04-21T00:03:19+03:00	Invoice was issued	[]	61823	823332						142606			invoice was issued -> []	other
+1478789	2025-04-28T15:44:16+03:00	Invoice was deleted	[]	61823	823332			250243			142606			invoice was deleted -> []	other
+1481089	2025-04-30T21:48:26+03:00	Referee was reminded	[]	61823	823332									referee was reminded -> []	other
+1481090	2025-04-30T21:48:26+03:00	Referee was reminded	[]	61823	823332									referee was reminded -> []	other
+1486639	2025-05-09T04:28:18+03:00	Interview was started	[]	61823	823332									interview was started -> []	other
+1486640	2025-05-09T04:40:44+03:00	Interview was completed	[]	61823	823332									interview was completed -> []	other
+1486923	2025-05-09T11:15:41+03:00	Application was flagged	[]	61823	823332			250243					786832	application was flagged -> []	other
+1486924	2025-05-09T11:15:51+03:00	Application was flagged	[]	61823	823332			250243					786813	application was flagged -> []	other
+1488285	2025-05-12T06:32:29+03:00	Interview was started	[]	61823	823332									interview was started -> []	other
+1488306	2025-05-12T06:44:07+03:00	Interview was completed	[]	61823	823332									interview was completed -> []	other
+1488524	2025-05-12T11:30:35+03:00	Interview was evaluated	[]	61823	823332			250243						interview was evaluated -> []	other
+1488779	2025-05-12T15:21:13+03:00	Application was flagged	[]	61823	823332			250253					786841	application was flagged -> []	other
+1488786	2025-05-12T15:33:29+03:00	Applicant decision: ?	['None']	61823	823332	298419	266788	250243	183219					applicant decision: ? -> ['none']	other
+1488787	2025-05-12T15:33:29+03:00	Offer was edited: ?	['Conditionally accepted']	61823	823332	298419	266788	250243	183219					offer was edited: ? -> ['conditionally accepted']	ui
+1488788	2025-05-12T15:33:29+03:00	Offer was confirmed: ?	['Conditionally accepted']	61823	823332	298419	266788	250243	183219					offer was confirmed: ? -> ['conditionally accepted']	other
+1488789	2025-05-12T15:33:29+03:00	Invoice was issued	[]	61823	823332			250243			142950			invoice was issued -> []	other
+1488790	2025-05-12T15:33:41+03:00	Invoice was edited	[]	61823	823332			250243			142950			invoice was edited -> []	ui
+1501328	2025-05-27T10:05:13+03:00	Interview was evaluated	[]	61823	823332			250243						interview was evaluated -> []	other
+1504765	2025-05-30T13:23:15+03:00	Application was reopened	[]	61823	823332									application was reopened -> []	other
+1504766	2025-05-30T13:23:42+03:00	Document was uploaded	[]	61823	823332					1109323				document was uploaded -> []	other
+1504767	2025-05-30T13:23:42+03:00	Document was uploaded	[]	61823	823332					1109324				document was uploaded -> []	other
+1504770	2025-05-30T13:24:21+03:00	Document was uploaded	[]	61823	823332					1109325				document was uploaded -> []	other
+1504771	2025-05-30T13:24:21+03:00	Document was uploaded	[]	61823	823332					1109326				document was uploaded -> []	other
+1504773	2025-05-30T13:24:26+03:00	Application was re-submitted	[]	61823	823332									application was re-submitted -> []	other
+1510528	2025-06-04T14:50:58+03:00	Applicant decision: ?	['None']	61823	823332	298497	266788	244054	183218					applicant decision: ? -> ['none']	other
+1510529	2025-06-04T14:50:58+03:00	Offer was edited: ?	['Scholarship']	61823	823332	298497	266788	244054	183218					offer was edited: ? -> ['scholarship']	ui
+1510530	2025-06-04T14:50:58+03:00	Offer was confirmed: ?	['Scholarship']	61823	823332	298497	266788	244054	183218					offer was confirmed: ? -> ['scholarship']	other
+1510531	2025-06-04T14:51:05+03:00	Invoice was deleted	[]	61823	823332			244054			142950			invoice was deleted -> []	other
+1510534	2025-06-04T14:52:30+03:00	Applicant decision: ?	['None']	61823	823332	298419	266788	244054	183219					applicant decision: ? -> ['none']	other
+1510535	2025-06-04T14:52:30+03:00	Offer was edited: ?	['Conditionally accepted']	61823	823332	298419	266788	244054	183219					offer was edited: ? -> ['conditionally accepted']	ui
+1510536	2025-06-04T14:52:30+03:00	Offer was confirmed: ?	['Conditionally accepted']	61823	823332	298419	266788	244054	183219					offer was confirmed: ? -> ['conditionally accepted']	other
+1510537	2025-06-04T14:52:43+03:00	Invoice was issued	[]	61823	823332			244054			143456			invoice was issued -> []	other
+1510538	2025-06-04T14:52:59+03:00	Invoice was issued	[]	61823	823332			244054			143457			invoice was issued -> []	other
+1513704	2025-06-07T15:09:28+03:00	Invoice was reminded	[]	61823	823332						143456			invoice was reminded -> []	other
+1525976	2025-06-16T00:27:32+03:00	Invoice was reminded	[]	61823	823332						143457			invoice was reminded -> []	other
+1539507	2025-07-10T15:58:38+03:00	Invoice was deleted	[]	61823	823332			250243			143457			invoice was deleted -> []	other
+1539508	2025-07-10T15:58:40+03:00	Invoice was deleted	[]	61823	823332			250243			143456			invoice was deleted -> []	other
+1539919	2025-07-11T13:08:12+03:00	Offer was edited: ?	['49']	61823	823332	298419	266788	250243	183219					offer was edited: ? -> ['49']	ui
+1539920	2025-07-11T13:08:13+03:00	Offer was confirmed: ?	['49']	61823	823332	298419	266788	250243	183219					offer was confirmed: ? -> ['49']	other
+1539939	2025-07-11T13:21:26+03:00	Invoice was issued	[]	61823	823332			250243			144252			invoice was issued -> []	other
+1544510	2025-07-23T00:27:24+03:00	Invoice was reminded	[]	61823	823332						144252			invoice was reminded -> []	other
+1550887	2025-08-14T13:05:26+03:00	Applicant decision: ?	['None']	61823	823332	298419	266788	250243	183219					applicant decision: ? -> ['none']	other
+1550888	2025-08-14T13:05:26+03:00	Offer was edited: ?	['Accepted']	61823	823332	298419	266788	250243	183219					offer was edited: ? -> ['accepted']	ui
+1550889	2025-08-14T13:05:26+03:00	Offer was confirmed: ?	['Accepted']	61823	823332	298419	266788	250243	183219					offer was confirmed: ? -> ['accepted']	other
+1552374	2025-09-01T13:24:49+03:00	Interview was started	[]	61823	823332									interview was started -> []	other
+1552375	2025-09-01T13:37:28+03:00	Interview was completed	[]	61823	823332									interview was completed -> []	other
+1552437	2025-09-03T10:44:53+03:00	Course was added to application	[]	61823	823332	298439	266788	250243						course_added	other
+1552438	2025-09-03T10:44:56+03:00	Application was edited	[]	61823	823332			250243						application_edit	ui
+1552439	2025-09-03T10:45:47+03:00	Applicant decision: ?	['None']	61823	823332	298439	266788	250243	184796					applicant decision: ? -> ['none']	other
+1552440	2025-09-03T10:45:47+03:00	Offer was edited: ?	['Accepted']	61823	823332	298439	266788	250243	184796					offer was edited: ? -> ['accepted']	ui
+1552441	2025-09-03T10:45:47+03:00	Offer was confirmed: ?	['Accepted']	61823	823332	298439	266788	250243	184796					offer was confirmed: ? -> ['accepted']	other
+1552442	2025-09-03T10:45:57+03:00	Offer was edited: ?	['Other']	61823	823332	298419	266788	250243	183219					offer was edited: ? -> ['other']	ui
+1552443	2025-09-03T10:45:57+03:00	Offer was confirmed: ?	['Other']	61823	823332	298419	266788	250243	183219					offer was confirmed: ? -> ['other']	other
+1553216	2025-09-19T16:50:02+03:00	Application was un-flagged	[]	61823	823332			250262					786832	application was un-flagged -> []	other
+1553217	2025-09-19T16:50:27+03:00	Application was flagged	[]	61823	823332			250262					786697	application was flagged -> []	other
+1553218	2025-09-19T16:50:34+03:00	Application was un-flagged	[]	61823	823332			250262					786697	application was un-flagged -> []	other
+1553415	2025-09-24T11:21:32+03:00	Interview was evaluated	[]	61823	823332			250243						interview was evaluated -> []	other

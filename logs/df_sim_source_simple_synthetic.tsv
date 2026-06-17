@@ -1,0 +1,1230 @@
+application	activity	logged
+808207	Application was flagged	2025-04-23T12:50:43Z
+808207	Interview was evaluated	2025-05-03T10:45:27Z
+808207	Interview was evaluated	2025-05-08T11:52:14Z
+808207	Applicant decision: ['None']	2025-06-03T13:12:54Z
+808207	Offer was edited: ['Scholarship']	2025-06-03T13:12:54Z
+808207	Offer was confirmed: ['Scholarship']	2025-06-03T13:12:54Z
+808207	Applicant decision: ['None']	2025-06-03T13:14:15Z
+808207	Offer was edited: ['Conditionally accepted']	2025-06-03T13:14:15Z
+808207	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:14:15Z
+808207	Invoice was issued	2025-06-03T13:14:15Z
+808207	Invoice was deleted	2025-06-03T13:14:22Z
+808207	Invoice was issued	2025-06-03T13:14:36Z
+808207	Invoice was issued	2025-06-03T13:14:55Z
+809681	Application was flagged	2025-04-23T13:25:56Z
+809681	Interview was evaluated	2025-04-26T10:18:29Z
+809681	Interview was evaluated	2025-05-16T08:55:18Z
+809681	Applicant decision: ['None']	2025-06-03T13:21:29Z
+809681	Offer was edited: ['Scholarship']	2025-06-03T13:21:29Z
+809681	Offer was confirmed: ['Scholarship']	2025-06-03T13:21:29Z
+809681	Applicant decision: ['None']	2025-06-03T13:23:03Z
+809681	Offer was edited: ['Conditionally accepted']	2025-06-03T13:23:03Z
+809681	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:23:04Z
+809681	Invoice was issued	2025-06-03T13:23:04Z
+809681	Invoice was deleted	2025-06-03T13:23:12Z
+809681	Invoice was issued	2025-06-03T13:23:20Z
+809681	Invoice was issued	2025-06-03T13:23:40Z
+807450	Tracker was added to ['IEES']	2025-01-09T12:15:09Z
+807450	Tracker was removed to ['IEES']	2025-04-08T15:01:40Z
+807450	Application was flagged	2025-04-09T14:53:47Z
+807450	Tracker was added to ['IEES']	2025-04-09T16:00:20Z
+807450	Tracker was removed to ['IEES']	2025-04-09T16:00:22Z
+807450	Interview was evaluated	2025-04-09T16:09:14Z
+807450	Applicant decision: ['None']	2025-04-09T16:12:22Z
+807450	Offer was edited: ['Conditionally accepted']	2025-04-09T16:12:22Z
+807450	Offer was confirmed: ['Conditionally accepted']	2025-04-09T16:12:22Z
+807450	Invoice was issued	2025-04-09T16:12:22Z
+807450	Invoice was edited	2025-04-09T16:12:37Z
+807450	Applicant decision: ['Final']	2025-04-30T16:20:11Z
+807450	Offer was edited: ['49']	2025-04-30T16:20:12Z
+807450	Offer was confirmed: ['49']	2025-04-30T16:20:12Z
+807450	Application was flagged	2025-05-03T10:13:28Z
+807450	Interview was evaluated	2025-05-07T13:29:28Z
+807450	Applicant decision: ['Declined']	2025-05-29T09:52:50Z
+807450	Offer was edited: ['Other']	2025-05-29T09:52:50Z
+807450	Applicant decision: ['None']	2025-06-05T11:20:22Z
+807450	Offer was edited: ['Scholarship']	2025-06-05T11:20:22Z
+807450	Offer was confirmed: ['Scholarship']	2025-06-05T11:20:22Z
+807450	Applicant decision: ['None']	2025-08-15T11:09:51Z
+807450	Offer was edited: ['Accepted']	2025-08-15T11:09:51Z
+807450	Offer was confirmed: ['Accepted']	2025-08-15T11:09:51Z
+809328	Invoice was deleted	2025-05-06T14:19:18Z
+809328	Interview was evaluated	2025-05-09T10:52:57Z
+809328	Interview was evaluated	2025-05-24T13:06:59Z
+809328	Offer was edited: ['Failed']	2025-06-06T09:34:59Z
+809328	Offer was confirmed: ['Failed']	2025-06-06T09:34:59Z
+809328	Applicant decision: ['None']	2025-06-06T09:36:00Z
+809328	Offer was edited: ['Conditionally accepted']	2025-06-06T09:36:00Z
+809328	Offer was confirmed: ['Conditionally accepted']	2025-06-06T09:36:00Z
+809328	Invoice was issued	2025-06-06T09:36:00Z
+809328	Invoice was edited	2025-06-06T09:36:15Z
+809328	Applicant decision: ['None']	2025-06-17T12:52:50Z
+809328	Offer was edited: ['Scholarship']	2025-06-17T12:52:50Z
+809328	Offer was confirmed: ['Scholarship']	2025-06-17T12:52:50Z
+809328	Invoice was deleted	2025-06-17T12:53:10Z
+809328	Invoice was issued	2025-06-17T12:53:15Z
+806247	Invoice was deleted	2025-04-29T15:16:58Z
+806247	Application was flagged	2025-05-10T10:48:23Z
+806247	Application was flagged	2025-05-10T10:48:33Z
+806247	Interview was evaluated	2025-05-13T11:03:17Z
+806247	Application was flagged	2025-05-13T14:53:55Z
+806247	Applicant decision: ['None']	2025-05-13T15:06:11Z
+806247	Offer was edited: ['Conditionally accepted']	2025-05-13T15:06:11Z
+806247	Offer was confirmed: ['Conditionally accepted']	2025-05-13T15:06:11Z
+806247	Invoice was issued	2025-05-13T15:06:11Z
+806247	Invoice was edited	2025-05-13T15:06:23Z
+806247	Interview was evaluated	2025-05-28T09:37:55Z
+806247	Applicant decision: ['None']	2025-06-05T14:23:40Z
+806247	Offer was edited: ['Scholarship']	2025-06-05T14:23:40Z
+806247	Offer was confirmed: ['Scholarship']	2025-06-05T14:23:40Z
+806247	Invoice was deleted	2025-06-05T14:23:47Z
+806247	Applicant decision: ['None']	2025-06-05T14:25:12Z
+806247	Offer was edited: ['Conditionally accepted']	2025-06-05T14:25:12Z
+806247	Offer was confirmed: ['Conditionally accepted']	2025-06-05T14:25:12Z
+806247	Invoice was issued	2025-06-05T14:25:25Z
+806247	Invoice was issued	2025-06-05T14:25:41Z
+806247	Invoice was deleted	2025-07-11T15:31:20Z
+806247	Invoice was deleted	2025-07-11T15:31:22Z
+806247	Offer was edited: ['49']	2025-07-12T12:40:54Z
+806247	Offer was confirmed: ['49']	2025-07-12T12:40:55Z
+806247	Invoice was issued	2025-07-12T12:54:08Z
+806247	Applicant decision: ['None']	2025-08-15T12:38:08Z
+806247	Offer was edited: ['Accepted']	2025-08-15T12:38:08Z
+806247	Offer was confirmed: ['Accepted']	2025-08-15T12:38:08Z
+806247	Course was added to application	2025-09-04T10:17:35Z
+806247	Application was edited	2025-09-04T10:17:38Z
+806247	Applicant decision: ['None']	2025-09-04T10:18:29Z
+806247	Offer was edited: ['Accepted']	2025-09-04T10:18:29Z
+806247	Offer was confirmed: ['Accepted']	2025-09-04T10:18:29Z
+806247	Offer was edited: ['Other']	2025-09-04T10:18:39Z
+806247	Offer was confirmed: ['Other']	2025-09-04T10:18:39Z
+806247	Application was un-flagged	2025-09-20T16:22:44Z
+806247	Application was flagged	2025-09-20T16:23:09Z
+806247	Application was un-flagged	2025-09-20T16:23:16Z
+806247	Interview was evaluated	2025-09-25T10:54:14Z
+809885	Invoice was collected	2025-04-25T12:21:41Z
+809885	Invoice was collected in full	2025-04-25T12:21:41Z
+809885	Tracker was added to ['IEES']	2025-04-25T13:09:35Z
+809885	Application was flagged	2025-04-25T13:10:32Z
+809885	Application was flagged	2025-04-29T12:57:19Z
+809885	Interview was evaluated	2025-05-09T15:40:11Z
+809885	Applicant decision: ['None']	2025-05-13T15:28:28Z
+809885	Offer was edited: ['Conditionally accepted']	2025-05-13T15:28:28Z
+809885	Offer was confirmed: ['Conditionally accepted']	2025-05-13T15:28:29Z
+809885	Invoice was issued	2025-05-13T15:28:29Z
+809885	Invoice was edited	2025-05-13T15:28:35Z
+809885	Offer was edited: ['Other']	2025-05-13T15:28:44Z
+809885	Offer was confirmed: ['Other']	2025-05-13T15:28:44Z
+809885	Applicant decision: ['None']	2025-05-17T08:27:45Z
+809885	Offer was edited: ['Conditionally accepted']	2025-05-17T08:27:45Z
+809885	Offer was confirmed: ['Conditionally accepted']	2025-05-17T08:27:45Z
+809885	Invoice was issued	2025-05-17T08:27:46Z
+809885	Offer was edited: ['Other']	2025-05-17T08:27:55Z
+809885	Invoice was deleted	2025-05-17T08:28:05Z
+809885	Invoice was edited	2025-05-17T08:28:15Z
+809885	Interview was evaluated	2025-05-21T13:22:55Z
+809885	Applicant decision: ['None']	2025-06-03T13:16:48Z
+809885	Offer was edited: ['Scholarship']	2025-06-03T13:16:48Z
+809885	Offer was confirmed: ['Scholarship']	2025-06-03T13:16:49Z
+809885	Invoice was deleted	2025-06-03T13:17:04Z
+809885	Invoice was issued	2025-06-03T13:17:12Z
+809885	Invoice was issued	2025-06-03T13:17:33Z
+809885	Applicant decision: ['Final']	2025-06-03T13:19:21Z
+809885	Offer was edited: ['Conditionally accepted']	2025-06-03T13:19:21Z
+809885	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:19:22Z
+809885	Invoice was deleted	2025-06-04T16:30:21Z
+809885	Invoice was deleted	2025-06-04T16:30:24Z
+809885	Invoice was issued	2025-06-04T16:33:05Z
+809885	Invoice was edited	2025-06-04T16:33:09Z
+809885	Invoice was collected	2025-06-04T16:33:35Z
+809885	Applicant decision: ['Final']	2025-06-28T15:06:20Z
+809885	Offer was edited: ['49']	2025-06-28T15:06:20Z
+809885	Offer was confirmed: ['49']	2025-06-28T15:06:20Z
+809885	Application was flagged	2025-08-12T14:52:23Z
+809885	Applicant decision: ['Final']	2025-08-12T14:59:18Z
+809885	Offer was edited: ['Accepted']	2025-08-12T14:59:18Z
+809885	Offer was confirmed: ['Accepted']	2025-08-12T14:59:18Z
+806893	Invoice was collected	2025-04-26T12:56:56Z
+806893	Invoice was collected in full	2025-04-26T12:56:56Z
+806893	Application was flagged	2025-04-29T10:45:48Z
+806893	Interview was evaluated	2025-05-08T14:48:53Z
+806893	Applicant decision: ['None']	2025-05-13T12:37:33Z
+806893	Offer was edited: ['Conditionally accepted']	2025-05-13T12:37:33Z
+806893	Offer was confirmed: ['Conditionally accepted']	2025-05-13T12:37:33Z
+806893	Invoice was issued	2025-05-13T12:37:33Z
+806893	Invoice was edited	2025-05-13T12:38:01Z
+806893	Offer was edited: ['Other']	2025-05-13T12:38:07Z
+806893	Offer was edited: ['Other']	2025-05-13T12:38:13Z
+806893	Interview was evaluated	2025-05-14T09:11:50Z
+806893	Applicant decision: ['None']	2025-05-31T11:12:36Z
+806893	Offer was edited: ['Scholarship']	2025-05-31T11:12:36Z
+806893	Offer was confirmed: ['Scholarship']	2025-05-31T11:12:36Z
+806893	Applicant decision: ['Final']	2025-05-31T11:13:35Z
+806893	Offer was edited: ['Conditionally accepted']	2025-05-31T11:13:35Z
+806893	Offer was confirmed: ['Conditionally accepted']	2025-05-31T11:13:35Z
+806893	Invoice was deleted	2025-05-31T11:13:41Z
+806893	Invoice was issued	2025-05-31T11:13:49Z
+806893	Invoice was collected	2025-06-06T10:56:59Z
+806893	Invoice was collected in full	2025-06-06T10:56:59Z
+806893	Applicant decision: ['Final']	2025-07-09T10:01:58Z
+806893	Offer was edited: ['49']	2025-07-09T10:01:58Z
+806893	Offer was confirmed: ['49']	2025-07-09T10:01:58Z
+806893	Applicant decision: ['Final']	2025-08-01T15:39:20Z
+806893	Offer was edited: ['Accepted']	2025-08-01T15:39:20Z
+806893	Offer was confirmed: ['Accepted']	2025-08-01T15:39:20Z
+809891	Invoice was collected	2025-04-29T12:15:42Z
+809891	Invoice was collected in full	2025-04-29T12:15:42Z
+809891	Application was flagged	2025-04-29T14:33:44Z
+809891	Application was flagged	2025-04-29T14:34:20Z
+809891	Interview was evaluated	2025-05-06T15:43:58Z
+809891	Tracker was added to ['BUCKS']	2025-05-22T11:17:02Z
+809891	Interview was evaluated	2025-05-28T10:35:36Z
+809891	Applicant decision: ['None']	2025-05-31T12:37:45Z
+809891	Offer was edited: ['Conditionally accepted']	2025-05-31T12:37:45Z
+809891	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:37:46Z
+809891	Invoice was issued	2025-05-31T12:37:46Z
+809891	Invoice was edited	2025-05-31T12:38:10Z
+809891	Invoice was edited	2025-05-31T12:38:12Z
+809891	Applicant decision: ['None']	2025-05-31T12:38:31Z
+809891	Offer was edited: ['Scholarship']	2025-05-31T12:38:31Z
+809891	Offer was confirmed: ['Scholarship']	2025-05-31T12:38:31Z
+809891	Applicant decision: ['None']	2025-06-05T14:26:31Z
+809891	Offer was edited: ['Scholarship']	2025-06-05T14:26:32Z
+809891	Offer was confirmed: ['Scholarship']	2025-06-05T14:26:32Z
+809891	Invoice was deleted	2025-06-05T14:26:54Z
+809891	Invoice was issued	2025-06-05T14:27:13Z
+809891	Invoice was edited	2025-06-20T15:12:23Z
+809891	Invoice was deleted	2025-07-03T13:19:51Z
+809891	Invoice was issued	2025-07-03T13:21:02Z
+809891	Invoice was edited	2025-07-03T13:21:19Z
+809891	Invoice was issued	2025-07-03T13:22:32Z
+809891	Invoice was edited	2025-07-03T13:23:23Z
+809891	Invoice was collected	2025-07-17T13:26:52Z
+809891	Invoice was collected in full	2025-07-17T13:26:52Z
+809891	Application was flagged	2025-07-17T13:27:35Z
+809891	Applicant decision: ['Final']	2025-08-22T14:26:56Z
+809891	Offer was edited: ['Accepted']	2025-08-22T14:26:56Z
+809891	Offer was confirmed: ['Accepted']	2025-08-22T14:26:56Z
+809891	Invoice was collected	2025-12-23T11:43:00Z
+809891	Invoice was collected in full	2025-12-23T11:43:00Z
+808883	Invoice was collected	2025-04-26T08:56:44Z
+808883	Invoice was collected in full	2025-04-26T08:56:44Z
+808883	Application was flagged	2025-04-26T09:45:51Z
+808883	Application was flagged	2025-05-08T15:17:06Z
+808883	Interview was evaluated	2025-05-08T15:18:16Z
+808883	Interview was evaluated	2025-05-09T13:27:36Z
+808883	Applicant decision: ['None']	2025-05-30T15:12:52Z
+808883	Offer was edited: ['Scholarship']	2025-05-30T15:12:52Z
+808883	Offer was confirmed: ['Scholarship']	2025-05-30T15:12:52Z
+808883	Applicant decision: ['None']	2025-05-30T15:14:55Z
+808883	Offer was edited: ['Conditionally accepted']	2025-05-30T15:14:55Z
+808883	Offer was confirmed: ['Conditionally accepted']	2025-05-30T15:14:55Z
+808883	Invoice was issued	2025-05-30T15:14:55Z
+808883	Invoice was deleted	2025-05-30T15:15:04Z
+808883	Invoice was issued	2025-05-30T15:15:15Z
+808883	Invoice was collected	2025-06-13T16:27:59Z
+808883	Invoice was collected in full	2025-06-13T16:27:59Z
+808883	Application was flagged	2025-06-13T16:29:44Z
+808883	Application was un-flagged	2025-07-16T16:05:01Z
+808883	Offer was edited: ['49']	2025-08-21T10:43:25Z
+808883	Offer was confirmed: ['49']	2025-08-21T10:43:25Z
+808883	Applicant decision: ['None']	2025-08-21T10:51:15Z
+808883	Offer was edited: ['Accepted']	2025-08-21T10:51:15Z
+808883	Offer was confirmed: ['Accepted']	2025-08-21T10:51:15Z
+808883	Applicant decision: ['Final']	2025-09-20T12:31:13Z
+808883	Offer was edited: ['Accepted']	2025-09-20T12:31:13Z
+808883	Offer was confirmed: ['Accepted']	2025-09-20T12:31:14Z
+808883	Applicant decision: ['Final']	2025-09-20T12:34:38Z
+808883	Offer was edited: ['Accepted']	2025-09-20T12:34:38Z
+808883	Offer was confirmed: ['Accepted']	2025-09-20T12:34:38Z
+809568	Interview was evaluated	2025-05-17T14:53:07Z
+809568	Application was flagged	2025-05-17T14:53:10Z
+809568	Interview was evaluated	2025-05-21T13:19:24Z
+809568	Applicant decision: ['None']	2025-05-30T15:48:43Z
+809568	Offer was edited: ['Scholarship']	2025-05-30T15:48:43Z
+809568	Offer was confirmed: ['Scholarship']	2025-05-30T15:48:43Z
+809568	Applicant decision: ['None']	2025-05-30T15:49:58Z
+809568	Offer was edited: ['Conditionally accepted']	2025-05-30T15:49:58Z
+809568	Offer was confirmed: ['Conditionally accepted']	2025-05-30T15:49:58Z
+809568	Invoice was issued	2025-05-30T15:49:58Z
+809568	Invoice was deleted	2025-05-30T15:50:05Z
+809568	Invoice was issued	2025-05-30T15:50:13Z
+809568	Application was flagged	2025-06-05T14:58:52Z
+809568	Application was un-flagged	2025-06-07T13:43:14Z
+809568	Offer was edited: ['49']	2025-06-14T12:25:32Z
+809568	Offer was confirmed: ['49']	2025-06-14T12:25:32Z
+809568	Applicant decision: ['None']	2025-08-13T09:19:01Z
+809568	Offer was edited: ['Accepted']	2025-08-13T09:19:01Z
+809568	Offer was confirmed: ['Accepted']	2025-08-13T09:19:01Z
+808013	Interview was evaluated	2025-02-22T11:53:24Z
+808013	Application was flagged	2025-02-22T11:53:28Z
+808013	Application was un-flagged	2025-03-05T17:01:25Z
+808013	Application was flagged	2025-03-07T15:51:39Z
+808013	Application was flagged	2025-03-13T15:59:04Z
+808013	Application was un-flagged	2025-04-08T11:29:30Z
+808013	Applicant decision: ['None']	2025-04-09T14:44:10Z
+808013	Offer was edited: ['Conditionally accepted']	2025-04-09T14:44:10Z
+808013	Offer was confirmed: ['Conditionally accepted']	2025-04-09T14:44:10Z
+808013	Invoice was issued	2025-04-09T14:44:11Z
+808013	Invoice was edited	2025-04-09T14:44:39Z
+808013	Offer was edited: ['Other']	2025-04-09T14:44:47Z
+808013	Interview was evaluated	2025-05-21T12:44:15Z
+808013	Applicant decision: ['None']	2025-05-31T12:34:51Z
+808013	Offer was edited: ['Scholarship']	2025-05-31T12:34:51Z
+808013	Offer was confirmed: ['Scholarship']	2025-05-31T12:34:52Z
+808013	Applicant decision: ['Final']	2025-05-31T12:35:39Z
+808013	Offer was edited: ['Conditionally accepted']	2025-05-31T12:35:39Z
+808013	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:35:39Z
+808013	Invoice was deleted	2025-05-31T12:35:48Z
+808013	Invoice was issued	2025-05-31T12:35:53Z
+808013	Applicant decision: ['Final']	2025-05-31T12:36:23Z
+808013	Offer was edited: ['Conditionally accepted']	2025-05-31T12:36:23Z
+808013	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:36:24Z
+807032	Interview was evaluated	2025-02-04T12:14:21Z
+807032	Application was flagged	2025-02-11T14:06:03Z
+807032	Application was flagged	2025-03-19T11:43:43Z
+807032	Applicant decision: ['None']	2025-04-08T10:57:42Z
+807032	Offer was edited: ['Conditionally accepted']	2025-04-08T10:57:42Z
+807032	Offer was confirmed: ['Conditionally accepted']	2025-04-08T10:57:42Z
+807032	Invoice was issued	2025-04-08T10:57:42Z
+807032	Invoice was edited	2025-04-08T10:58:09Z
+807032	Invoice was edited	2025-04-08T10:58:10Z
+807032	Application was un-flagged	2025-04-08T11:01:33Z
+807032	Applicant decision: ['None']	2025-04-08T15:17:54Z
+807032	Offer was edited: ['Conditionally accepted']	2025-04-08T15:17:54Z
+807032	Offer was confirmed: ['Conditionally accepted']	2025-04-08T15:17:54Z
+807032	Interview was evaluated	2025-05-07T11:20:41Z
+807032	Applicant decision: ['None']	2025-06-03T13:24:54Z
+807032	Offer was edited: ['Scholarship']	2025-06-03T13:24:54Z
+807032	Offer was confirmed: ['Scholarship']	2025-06-03T13:24:55Z
+807032	Invoice was deleted	2025-06-03T13:25:02Z
+807032	Invoice was issued	2025-06-03T13:25:10Z
+807032	Invoice was issued	2025-06-03T13:25:29Z
+807032	Applicant decision: ['None']	2025-06-03T13:26:44Z
+807032	Offer was edited: ['Conditionally accepted']	2025-06-03T13:26:44Z
+807032	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:26:44Z
+807032	Application was flagged	2025-06-11T15:52:18Z
+807032	Application was flagged	2025-06-12T14:40:55Z
+807032	Applicant decision: ['Final']	2025-06-19T14:25:32Z
+807032	Offer was edited: ['49']	2025-06-19T14:25:32Z
+807032	Offer was confirmed: ['49']	2025-06-19T14:25:33Z
+807032	Applicant decision: ['Final']	2025-06-19T14:29:36Z
+807032	Offer was edited: ['49']	2025-06-19T14:29:36Z
+807032	Offer was confirmed: ['49']	2025-06-19T14:29:36Z
+807032	Applicant decision: ['Final']	2025-06-27T15:16:02Z
+807032	Offer was edited: ['49']	2025-06-27T15:16:02Z
+807032	Offer was confirmed: ['49']	2025-06-27T15:16:02Z
+807032	Applicant decision: ['Final']	2025-08-01T16:15:29Z
+807032	Offer was edited: ['Accepted']	2025-08-01T16:15:29Z
+807032	Offer was confirmed: ['Accepted']	2025-08-01T16:15:29Z
+807032	Applicant decision: ['Final']	2025-09-04T15:16:23Z
+807032	Offer was edited: ['49']	2025-09-04T15:16:23Z
+807032	Offer was confirmed: ['49']	2025-09-04T15:16:24Z
+807032	Applicant decision: ['Final']	2025-09-04T15:16:26Z
+807032	Offer was edited: ['Accepted']	2025-09-04T15:16:26Z
+807445	Interview was evaluated	2025-01-21T15:22:00Z
+807445	Applicant decision: ['None']	2025-01-21T15:28:45Z
+807445	Offer was edited: ['Conditionally accepted']	2025-01-21T15:28:45Z
+807445	Offer was confirmed: ['Conditionally accepted']	2025-01-21T15:28:45Z
+807445	Invoice was issued	2025-01-21T15:28:46Z
+807445	Offer was edited: ['Other']	2025-01-21T15:28:52Z
+807445	Offer was confirmed: ['Other']	2025-01-21T15:28:52Z
+807445	Offer was edited: ['Other']	2025-01-21T15:28:56Z
+807445	Offer was confirmed: ['Other']	2025-01-21T15:28:56Z
+807445	Invoice was edited	2025-01-21T15:29:20Z
+807445	Offer was edited: ['Unreplied']	2025-01-22T10:21:05Z
+807445	Offer was edited: ['Other']	2025-02-01T14:39:06Z
+807445	Offer was confirmed: ['Other']	2025-02-01T14:39:07Z
+807445	Offer was edited: ['Unreplied']	2025-02-05T12:19:00Z
+807445	Application was flagged	2025-02-11T14:08:13Z
+807445	Offer was edited: ['Failed']	2025-02-26T11:57:24Z
+807445	Offer was confirmed: ['Failed']	2025-02-26T11:57:25Z
+807445	Interview was evaluated	2025-02-26T11:57:30Z
+807445	Invoice was collected	2025-02-27T13:38:45Z
+807445	Invoice was collected in full	2025-02-27T13:38:45Z
+807445	Applicant decision: ['Final']	2025-03-13T14:18:30Z
+807445	Offer was edited: ['49']	2025-03-13T14:18:30Z
+807445	Offer was confirmed: ['49']	2025-03-13T14:18:30Z
+807445	Interview was evaluated	2025-05-21T16:22:03Z
+807445	Applicant decision: ['None']	2025-06-05T12:33:02Z
+807445	Offer was edited: ['Scholarship']	2025-06-05T12:33:02Z
+807445	Offer was confirmed: ['Scholarship']	2025-06-05T12:33:02Z
+807445	Applicant decision: ['None']	2025-08-05T15:09:59Z
+807445	Offer was edited: ['Accepted']	2025-08-05T15:09:59Z
+807445	Offer was confirmed: ['Accepted']	2025-08-05T15:09:59Z
+807445	Application was flagged	2025-08-05T15:10:02Z
+808695	Interview was evaluated	2025-04-12T14:34:30Z
+808695	Applicant decision: ['None']	2025-04-12T14:36:18Z
+808695	Offer was edited: ['Conditionally accepted']	2025-04-12T14:36:18Z
+808695	Offer was confirmed: ['Conditionally accepted']	2025-04-12T14:36:18Z
+808695	Invoice was issued	2025-04-12T14:36:18Z
+808695	Invoice was edited	2025-04-12T14:36:40Z
+808695	Application was flagged	2025-04-12T14:36:47Z
+808695	Application was flagged	2025-05-13T08:36:11Z
+808695	Invoice was edited	2025-05-13T08:37:01Z
+808695	Interview was evaluated	2025-05-22T10:45:06Z
+808695	Applicant decision: ['None']	2025-06-05T13:06:20Z
+808695	Offer was edited: ['Scholarship']	2025-06-05T13:06:20Z
+808695	Offer was confirmed: ['Scholarship']	2025-06-05T13:06:20Z
+808695	Applicant decision: ['Final']	2025-06-05T13:08:47Z
+808695	Offer was edited: ['Conditionally accepted']	2025-06-05T13:08:47Z
+808695	Offer was confirmed: ['Conditionally accepted']	2025-06-05T13:08:47Z
+808695	Invoice was deleted	2025-06-05T13:08:54Z
+808695	Invoice was issued	2025-06-05T13:09:00Z
+808695	Invoice was issued	2025-06-05T13:09:19Z
+809759	Application was flagged	2025-04-23T11:23:20Z
+809759	Offer was edited: ['Feedback']	2025-05-03T11:03:29Z
+809759	Offer was confirmed: ['Feedback']	2025-05-03T11:03:29Z
+809759	Interview was evaluated	2025-05-03T11:04:49Z
+809759	Interview was evaluated	2025-05-17T09:45:17Z
+809759	Applicant decision: ['None']	2025-05-31T12:44:31Z
+809759	Offer was edited: ['Scholarship']	2025-05-31T12:44:31Z
+809759	Offer was confirmed: ['Scholarship']	2025-05-31T12:44:31Z
+809759	Applicant decision: ['None']	2025-05-31T12:46:01Z
+809759	Offer was edited: ['Conditionally accepted']	2025-05-31T12:46:02Z
+809759	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:46:02Z
+809759	Invoice was issued	2025-05-31T12:46:02Z
+809759	Invoice was deleted	2025-05-31T12:46:09Z
+809759	Invoice was issued	2025-05-31T12:46:17Z
+809759	Application was flagged	2025-06-05T08:47:04Z
+809759	Offer was edited: ['49']	2025-06-07T15:13:01Z
+809759	Offer was confirmed: ['49']	2025-06-07T15:13:02Z
+809759	Applicant decision: ['None']	2025-08-13T09:20:10Z
+809759	Offer was edited: ['Accepted']	2025-08-13T09:20:10Z
+809759	Offer was confirmed: ['Accepted']	2025-08-13T09:20:11Z
+808464	Application was flagged	2025-04-27T13:00:53Z
+808464	Offer was edited: ['Feedback']	2025-05-08T15:01:43Z
+808464	Offer was confirmed: ['Feedback']	2025-05-08T15:01:43Z
+808464	Interview was evaluated	2025-05-08T15:01:52Z
+808464	Interview was evaluated	2025-05-16T11:30:36Z
+808464	Applicant decision: ['None']	2025-06-03T13:41:28Z
+808464	Offer was edited: ['Scholarship']	2025-06-03T13:41:28Z
+808464	Offer was confirmed: ['Scholarship']	2025-06-03T13:41:28Z
+808622	Application was flagged	2025-03-13T15:53:41Z
+808622	Offer was edited: ['Failed']	2025-04-15T14:47:33Z
+808622	Offer was confirmed: ['Failed']	2025-04-15T14:47:33Z
+808622	Offer was edited: ['Failed']	2025-04-15T14:47:46Z
+808622	Offer was confirmed: ['Failed']	2025-04-15T14:47:46Z
+808622	Offer was edited: ['Unreplied']	2025-04-18T16:44:59Z
+808622	Offer was edited: ['Unreplied']	2025-04-18T16:45:09Z
+808622	Invoice was edited	2025-04-18T16:45:28Z
+808622	Applicant decision: ['None']	2025-05-03T12:29:19Z
+808622	Offer was edited: ['Conditionally accepted']	2025-05-03T12:29:19Z
+808622	Offer was confirmed: ['Conditionally accepted']	2025-05-03T12:29:19Z
+808622	Invoice was issued	2025-05-03T12:29:20Z
+808622	Invoice was edited	2025-05-03T12:30:10Z
+808622	Offer was edited: ['Other']	2025-05-03T12:30:20Z
+808622	Invoice was edited	2025-05-08T09:39:13Z
+808622	Interview was evaluated	2025-05-08T13:24:35Z
+808622	Application was flagged	2025-05-13T09:39:31Z
+808622	Interview was evaluated	2025-05-22T08:52:11Z
+808622	Applicant decision: ['None']	2025-06-05T11:53:28Z
+808622	Offer was edited: ['Scholarship']	2025-06-05T11:53:28Z
+808622	Offer was confirmed: ['Scholarship']	2025-06-05T11:53:28Z
+808622	Invoice was deleted	2025-06-05T11:53:49Z
+808622	Invoice was issued	2025-06-05T11:53:58Z
+808622	Applicant decision: ['Final']	2025-06-05T11:58:22Z
+808622	Offer was edited: ['Conditionally accepted']	2025-06-05T11:58:22Z
+808622	Offer was confirmed: ['Conditionally accepted']	2025-06-05T11:58:22Z
+808221	Application was flagged	2025-05-08T12:00:03Z
+808221	Invoice was deleted	2025-05-08T12:00:13Z
+808221	Interview was evaluated	2025-05-16T16:22:11Z
+808221	Application was flagged	2025-05-27T15:46:26Z
+808221	Offer was edited: ['Failed']	2025-05-30T15:07:32Z
+808221	Offer was confirmed: ['Failed']	2025-05-30T15:07:32Z
+808221	Applicant decision: ['None']	2025-06-18T12:37:15Z
+808221	Offer was edited: ['Scholarship']	2025-06-18T12:37:15Z
+808221	Offer was confirmed: ['Scholarship']	2025-06-18T12:37:16Z
+808221	Applicant decision: ['None']	2025-06-18T12:38:26Z
+808221	Offer was edited: ['Conditionally accepted']	2025-06-18T12:38:26Z
+808221	Offer was confirmed: ['Conditionally accepted']	2025-06-18T12:38:26Z
+808221	Invoice was issued	2025-06-18T12:38:26Z
+808221	Offer was edited: ['Other']	2025-06-18T12:38:34Z
+808221	Offer was confirmed: ['Other']	2025-06-18T12:38:34Z
+808221	Invoice was deleted	2025-06-18T12:38:40Z
+808221	Invoice was issued	2025-06-18T12:38:48Z
+808221	Invoice was collected	2025-07-01T16:12:16Z
+808221	Invoice was collected in full	2025-07-01T16:12:16Z
+808221	Applicant decision: ['Final']	2025-07-15T14:31:19Z
+808221	Offer was edited: ['49']	2025-07-15T14:31:19Z
+808221	Offer was confirmed: ['49']	2025-07-15T14:31:19Z
+808221	Applicant decision: ['Final']	2025-08-05T15:11:19Z
+808221	Offer was edited: ['Accepted']	2025-08-05T15:11:19Z
+808221	Offer was confirmed: ['Accepted']	2025-08-05T15:11:19Z
+808841	Application was flagged	2025-04-15T14:59:14Z
+808841	Invoice was deleted	2025-04-15T14:59:19Z
+808841	Application was flagged	2025-04-16T15:18:14Z
+808841	Interview was evaluated	2025-04-18T13:56:33Z
+808841	Application was flagged	2025-04-25T15:07:28Z
+808841	Interview was evaluated	2025-05-28T14:31:28Z
+808841	Applicant decision: ['None']	2025-05-31T11:14:52Z
+808841	Offer was edited: ['Conditionally accepted']	2025-05-31T11:14:52Z
+808841	Offer was confirmed: ['Conditionally accepted']	2025-05-31T11:14:52Z
+808841	Invoice was issued	2025-05-31T11:14:53Z
+808841	Invoice was edited	2025-05-31T11:15:08Z
+808841	Applicant decision: ['None']	2025-05-31T11:15:22Z
+808841	Offer was edited: ['Scholarship']	2025-05-31T11:15:22Z
+808841	Offer was confirmed: ['Scholarship']	2025-05-31T11:15:22Z
+808841	Invoice was edited	2025-05-31T12:29:12Z
+808841	Applicant decision: ['Final']	2025-08-21T11:05:35Z
+808841	Offer was edited: ['Scholarship']	2025-08-21T11:05:35Z
+808841	Offer was confirmed: ['Scholarship']	2025-08-21T11:05:35Z
+808841	Applicant decision: ['None']	2025-08-22T14:25:28Z
+808841	Offer was edited: ['Accepted']	2025-08-22T14:25:28Z
+808841	Offer was confirmed: ['Accepted']	2025-08-22T14:25:28Z
+808841	Invoice was deleted	2025-09-19T10:21:24Z
+808841	Invoice was issued	2025-09-19T10:28:49Z
+809851	Application was flagged	2025-04-24T12:40:55Z
+809851	Invoice was deleted	2025-04-24T12:41:22Z
+809851	Application was flagged	2025-04-24T12:41:55Z
+809851	Application was flagged	2025-04-30T10:38:24Z
+809851	Offer was edited: ['Feedback']	2025-05-10T12:59:10Z
+809851	Offer was confirmed: ['Feedback']	2025-05-10T12:59:10Z
+809851	Offer was edited: ['Feedback']	2025-05-10T12:59:40Z
+809851	Offer was confirmed: ['Feedback']	2025-05-10T12:59:40Z
+809851	Offer was edited: ['Feedback']	2025-05-10T12:59:47Z
+809851	Offer was confirmed: ['Feedback']	2025-05-10T12:59:47Z
+809851	Course was added to application	2025-05-13T09:47:27Z
+809851	Application was edited	2025-05-13T09:47:33Z
+809851	Course was removed from application	2025-05-13T09:47:33Z
+809851	Course was removed from application	2025-05-13T09:47:36Z
+809851	Applicant decision: ['None']	2025-05-13T09:48:32Z
+809851	Offer was edited: ['Conditionally accepted']	2025-05-13T09:48:32Z
+809851	Offer was confirmed: ['Conditionally accepted']	2025-05-13T09:48:32Z
+809851	Invoice was issued	2025-05-13T09:48:32Z
+809851	Applicant decision: ['None']	2025-05-13T09:49:31Z
+809851	Offer was edited: ['Conditionally accepted']	2025-05-13T09:49:31Z
+809851	Offer was confirmed: ['Conditionally accepted']	2025-05-13T09:49:31Z
+809851	Invoice was edited	2025-05-13T09:49:58Z
+809851	Interview was evaluated	2025-05-13T09:50:12Z
+809851	Application was un-flagged	2025-05-16T11:24:51Z
+809851	Interview was evaluated	2025-05-28T14:42:50Z
+809851	Invoice was edited	2025-05-31T12:44:15Z
+809851	Applicant decision: ['None']	2025-05-31T12:44:44Z
+809851	Offer was edited: ['Scholarship']	2025-05-31T12:44:44Z
+809851	Offer was confirmed: ['Scholarship']	2025-05-31T12:44:44Z
+809851	Applicant decision: ['Declined']	2025-08-13T13:48:53Z
+809851	Offer was edited: ['Other']	2025-08-13T13:48:53Z
+809851	Applicant decision: ['Declined']	2025-08-13T13:48:58Z
+809851	Offer was edited: ['Other']	2025-08-13T13:48:58Z
+807694	Application was flagged	2025-04-03T15:05:37Z
+807694	Invoice was collected	2025-04-04T09:30:44Z
+807694	Invoice was collected in full	2025-04-04T09:30:44Z
+807694	Interview was evaluated	2025-04-12T10:54:30Z
+807694	Interview was evaluated	2025-05-07T12:58:44Z
+807694	Applicant decision: ['None']	2025-06-03T13:35:51Z
+807694	Offer was edited: ['Scholarship']	2025-06-03T13:35:52Z
+807694	Offer was confirmed: ['Scholarship']	2025-06-03T13:35:52Z
+807694	Applicant decision: ['None']	2025-06-03T13:37:56Z
+807694	Offer was edited: ['Conditionally accepted']	2025-06-03T13:37:56Z
+807694	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:37:56Z
+807694	Invoice was issued	2025-06-03T13:37:56Z
+807694	Invoice was deleted	2025-06-03T13:38:03Z
+807694	Invoice was issued	2025-06-03T13:38:11Z
+807694	Invoice was issued	2025-06-03T13:38:31Z
+809926	Application was flagged	2025-04-24T10:47:46Z
+809926	Interview was evaluated	2025-05-03T10:41:01Z
+809926	Interview was evaluated	2025-05-14T10:34:44Z
+809926	Offer was edited: ['Feedback']	2025-05-14T10:38:24Z
+809926	Offer was confirmed: ['Feedback']	2025-05-14T10:38:24Z
+809926	Applicant decision: ['None']	2025-05-23T15:15:28Z
+809926	Offer was edited: ['Conditionally accepted']	2025-05-23T15:15:28Z
+809926	Offer was confirmed: ['Conditionally accepted']	2025-05-23T15:15:28Z
+809926	Invoice was issued	2025-05-23T15:15:29Z
+809926	Invoice was edited	2025-05-23T15:15:39Z
+809926	Offer was edited: ['Other']	2025-05-23T15:15:46Z
+809926	Offer was edited: ['Other']	2025-05-23T15:15:50Z
+809926	Applicant decision: ['None']	2025-06-03T09:41:21Z
+809926	Offer was edited: ['Scholarship']	2025-06-03T09:41:21Z
+809926	Offer was confirmed: ['Scholarship']	2025-06-03T09:41:21Z
+809926	Invoice was deleted	2025-06-03T09:42:09Z
+809926	Invoice was issued	2025-06-03T09:42:17Z
+809926	Invoice was issued	2025-06-03T09:42:40Z
+809926	Applicant decision: ['None']	2025-06-03T09:44:06Z
+809926	Offer was edited: ['Conditionally accepted']	2025-06-03T09:44:06Z
+809926	Offer was confirmed: ['Conditionally accepted']	2025-06-03T09:44:06Z
+808553	Application was flagged	2025-04-23T10:44:51Z
+808553	Interview was evaluated	2025-05-01T15:06:56Z
+808553	Interview was evaluated	2025-05-14T11:05:16Z
+808553	Applicant decision: ['None']	2025-05-14T11:08:12Z
+808553	Offer was edited: ['Conditionally accepted']	2025-05-14T11:08:12Z
+808553	Offer was confirmed: ['Conditionally accepted']	2025-05-14T11:08:12Z
+808553	Invoice was issued	2025-05-14T11:08:12Z
+808553	Invoice was edited	2025-05-14T11:08:36Z
+808553	Offer was edited: ['Other']	2025-05-14T11:08:46Z
+808553	Offer was edited: ['Other']	2025-05-14T11:08:52Z
+808553	Applicant decision: ['None']	2025-05-31T12:38:22Z
+808553	Offer was edited: ['Scholarship']	2025-05-31T12:38:22Z
+808553	Offer was confirmed: ['Scholarship']	2025-05-31T12:38:22Z
+808553	Applicant decision: ['None']	2025-05-31T12:39:38Z
+808553	Offer was edited: ['Conditionally accepted']	2025-05-31T12:39:38Z
+808553	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:39:38Z
+808553	Invoice was deleted	2025-05-31T12:39:44Z
+808553	Invoice was issued	2025-05-31T12:39:52Z
+808553	Application was flagged	2025-06-06T09:58:29Z
+808553	Offer was edited: ['49']	2025-06-13T16:18:47Z
+808553	Offer was confirmed: ['49']	2025-06-13T16:18:47Z
+808553	Applicant decision: ['None']	2025-08-02T16:51:12Z
+808553	Offer was edited: ['Accepted']	2025-08-02T16:51:12Z
+808553	Offer was confirmed: ['Accepted']	2025-08-02T16:51:12Z
+808553	Offer was edited: ['50']	2025-11-05T15:48:19Z
+808553	Applicant decision: ['Final']	2025-11-05T15:48:59Z
+808553	Offer was edited: ['50']	2025-11-05T15:48:59Z
+808610	Application was flagged	2025-04-24T17:15:43Z
+808610	Interview was evaluated	2025-05-09T15:51:50Z
+808610	Interview was evaluated	2025-05-16T21:23:51Z
+808610	Applicant decision: ['None']	2025-05-23T14:32:58Z
+808610	Offer was edited: ['Conditionally accepted']	2025-05-23T14:32:58Z
+808610	Offer was confirmed: ['Conditionally accepted']	2025-05-23T14:32:58Z
+808610	Invoice was issued	2025-05-23T14:32:58Z
+808610	Invoice was edited	2025-05-23T14:33:14Z
+808610	Applicant decision: ['None']	2025-06-03T09:36:40Z
+808610	Offer was edited: ['Scholarship']	2025-06-03T09:36:40Z
+808610	Offer was confirmed: ['Scholarship']	2025-06-03T09:36:40Z
+808610	Invoice was deleted	2025-06-03T09:36:54Z
+808610	Invoice was issued	2025-06-03T09:37:13Z
+808610	Invoice was issued	2025-06-03T09:38:45Z
+808610	Applicant decision: ['None']	2025-06-03T09:40:32Z
+808610	Offer was edited: ['Conditionally accepted']	2025-06-03T09:40:32Z
+808610	Offer was confirmed: ['Conditionally accepted']	2025-06-03T09:40:32Z
+809191	Application was flagged	2025-04-23T11:32:49Z
+809191	Interview was evaluated	2025-05-03T10:28:16Z
+809191	Application was flagged	2025-05-03T10:28:24Z
+809191	Interview was evaluated	2025-05-10T08:59:49Z
+809191	Applicant decision: ['None']	2025-05-10T10:26:10Z
+809191	Offer was edited: ['Conditionally accepted']	2025-05-10T10:26:10Z
+809191	Offer was confirmed: ['Conditionally accepted']	2025-05-10T10:26:10Z
+809191	Invoice was issued	2025-05-10T10:26:10Z
+809191	Invoice was edited	2025-05-10T10:26:25Z
+809191	Application was un-flagged	2025-05-10T10:26:29Z
+809191	Invoice was edited	2025-05-27T15:56:33Z
+809191	Applicant decision: ['None']	2025-05-30T15:10:02Z
+809191	Offer was edited: ['Scholarship']	2025-05-30T15:10:02Z
+809191	Offer was confirmed: ['Scholarship']	2025-05-30T15:10:02Z
+809191	Applicant decision: ['Final']	2025-05-30T15:12:05Z
+809191	Offer was edited: ['Conditionally accepted']	2025-05-30T15:12:05Z
+809191	Offer was confirmed: ['Conditionally accepted']	2025-05-30T15:12:05Z
+809191	Invoice was deleted	2025-05-30T15:13:24Z
+809191	Invoice was issued	2025-05-30T15:13:41Z
+809191	Application was flagged	2025-06-03T15:11:02Z
+809191	Offer was edited: ['49']	2025-06-06T11:28:11Z
+809191	Offer was confirmed: ['49']	2025-06-06T11:28:12Z
+809191	Applicant decision: ['None']	2025-08-01T16:49:51Z
+809191	Offer was edited: ['Accepted']	2025-08-01T16:49:51Z
+809191	Offer was confirmed: ['Accepted']	2025-08-01T16:49:51Z
+808541	Application was flagged	2025-05-13T15:59:58Z
+808541	Interview was evaluated	2025-05-14T12:24:15Z
+808541	Application was flagged	2025-05-24T12:25:23Z
+808541	Interview was evaluated	2025-05-29T20:22:03Z
+808541	Applicant decision: ['None']	2025-06-06T09:38:10Z
+808541	Offer was edited: ['Conditionally accepted']	2025-06-06T09:38:10Z
+808541	Offer was confirmed: ['Conditionally accepted']	2025-06-06T09:38:10Z
+808541	Invoice was issued	2025-06-06T09:38:10Z
+808541	Invoice was edited	2025-06-06T09:38:24Z
+808541	Applicant decision: ['None']	2025-06-06T09:38:35Z
+808541	Offer was edited: ['Scholarship']	2025-06-06T09:38:35Z
+808541	Offer was confirmed: ['Scholarship']	2025-06-06T09:38:36Z
+807866	Application was flagged	2025-02-11T14:07:12Z
+807866	Interview was evaluated	2025-02-22T11:13:44Z
+807866	Application was flagged	2025-03-11T15:56:30Z
+807866	Application was un-flagged	2025-04-03T11:17:02Z
+807866	Applicant decision: ['None']	2025-04-03T14:59:17Z
+807866	Offer was edited: ['Conditionally accepted']	2025-04-03T14:59:17Z
+807866	Offer was confirmed: ['Conditionally accepted']	2025-04-03T14:59:17Z
+807866	Invoice was issued	2025-04-03T14:59:17Z
+807866	Invoice was edited	2025-04-03T15:00:17Z
+807866	Interview was evaluated	2025-05-07T15:06:20Z
+807866	Applicant decision: ['None']	2025-06-03T09:45:06Z
+807866	Offer was edited: ['Scholarship']	2025-06-03T09:45:06Z
+807866	Offer was confirmed: ['Scholarship']	2025-06-03T09:45:06Z
+807866	Invoice was deleted	2025-06-03T09:45:24Z
+807866	Invoice was issued	2025-06-03T09:45:32Z
+807866	Invoice was issued	2025-06-03T09:45:51Z
+807866	Applicant decision: ['Final']	2025-06-03T09:47:24Z
+807866	Offer was edited: ['Conditionally accepted']	2025-06-03T09:47:24Z
+807866	Offer was confirmed: ['Conditionally accepted']	2025-06-03T09:47:24Z
+807866	Applicant decision: ['Final']	2025-09-27T09:49:38Z
+807866	Offer was edited: ['50']	2025-09-27T09:49:38Z
+807717	Application was flagged	2025-02-11T14:04:35Z
+807717	Interview was evaluated	2025-02-19T16:45:13Z
+807717	Application was flagged	2025-03-07T15:29:00Z
+807717	Application was flagged	2025-03-07T15:29:33Z
+807717	Applicant decision: ['None']	2025-03-11T15:21:09Z
+807717	Offer was edited: ['Conditionally accepted']	2025-03-11T15:21:09Z
+807717	Offer was confirmed: ['Conditionally accepted']	2025-03-11T15:21:09Z
+807717	Invoice was issued	2025-03-11T15:21:09Z
+807717	Invoice was edited	2025-03-11T15:21:33Z
+807717	Application was un-flagged	2025-03-11T15:23:56Z
+807717	Interview was evaluated	2025-05-07T14:37:50Z
+807717	Applicant decision: ['None']	2025-06-05T11:17:27Z
+807717	Offer was edited: ['Scholarship']	2025-06-05T11:17:27Z
+807717	Offer was confirmed: ['Scholarship']	2025-06-05T11:17:27Z
+807717	Invoice was deleted	2025-06-05T11:17:36Z
+807717	Invoice was issued	2025-06-05T11:17:45Z
+807717	Invoice was issued	2025-06-05T11:18:05Z
+807717	Applicant decision: ['Final']	2025-06-05T11:19:16Z
+807717	Offer was edited: ['Conditionally accepted']	2025-06-05T11:19:16Z
+807717	Offer was confirmed: ['Conditionally accepted']	2025-06-05T11:19:16Z
+807717	Applicant decision: ['Final']	2025-09-27T09:50:19Z
+807717	Offer was edited: ['50']	2025-09-27T09:50:19Z
+809430	Application was flagged	2025-04-18T12:41:28Z
+809430	Interview was evaluated	2025-04-19T13:10:47Z
+809430	Application was flagged	2025-04-30T16:23:42Z
+809430	Applicant decision: ['None']	2025-05-10T09:41:07Z
+809430	Offer was edited: ['Conditionally accepted']	2025-05-10T09:41:07Z
+809430	Offer was confirmed: ['Conditionally accepted']	2025-05-10T09:41:07Z
+809430	Invoice was issued	2025-05-10T09:41:07Z
+809430	Invoice was edited	2025-05-10T09:41:24Z
+809430	Invoice was edited	2025-05-13T11:27:27Z
+809430	Interview was evaluated	2025-05-24T13:30:40Z
+809430	Offer was edited: ['Failed']	2025-06-06T09:31:52Z
+809430	Offer was confirmed: ['Failed']	2025-06-06T09:31:52Z
+809430	Applicant decision: ['None']	2025-07-02T13:15:29Z
+809430	Offer was edited: ['Scholarship']	2025-07-02T13:15:29Z
+809430	Offer was confirmed: ['Scholarship']	2025-07-02T13:15:29Z
+809430	Invoice was deleted	2025-07-02T13:15:46Z
+809430	Invoice was issued	2025-07-02T13:16:19Z
+809430	Offer was edited: ['49']	2025-07-09T11:27:03Z
+809430	Offer was confirmed: ['49']	2025-07-09T11:27:03Z
+809430	Offer was edited: ['49']	2025-07-09T11:27:23Z
+809430	Offer was edited: ['49']	2025-07-10T10:46:28Z
+809430	Offer was confirmed: ['49']	2025-07-10T10:46:28Z
+809430	Applicant decision: ['None']	2025-08-22T10:58:25Z
+809430	Offer was edited: ['Accepted']	2025-08-22T10:58:25Z
+809430	Offer was confirmed: ['Accepted']	2025-08-22T10:58:26Z
+809754	Application was flagged	2025-04-23T12:49:55Z
+809754	Interview was evaluated	2025-04-25T09:14:01Z
+809754	Applicant decision: ['None']	2025-05-09T16:22:19Z
+809754	Offer was edited: ['Conditionally accepted']	2025-05-09T16:22:19Z
+809754	Offer was confirmed: ['Conditionally accepted']	2025-05-09T16:22:19Z
+809754	Invoice was issued	2025-05-09T16:22:19Z
+809754	Invoice was edited	2025-05-09T16:22:45Z
+809754	Offer was edited: ['Other']	2025-05-09T16:22:53Z
+809754	Offer was edited: ['Other']	2025-05-09T16:22:58Z
+809754	Invoice was collected	2025-05-10T13:20:44Z
+809754	Invoice was collected in full	2025-05-10T13:20:44Z
+809754	Interview was evaluated	2025-05-22T13:20:40Z
+809754	Applicant decision: ['None']	2025-06-05T13:10:50Z
+809754	Offer was edited: ['Scholarship']	2025-06-05T13:10:50Z
+809754	Offer was confirmed: ['Scholarship']	2025-06-05T13:10:50Z
+809754	Applicant decision: ['Final']	2025-06-05T13:12:00Z
+809754	Offer was edited: ['Conditionally accepted']	2025-06-05T13:12:00Z
+809754	Offer was confirmed: ['Conditionally accepted']	2025-06-05T13:12:00Z
+809754	Offer was edited: ['49']	2025-06-05T13:35:44Z
+809754	Offer was confirmed: ['49']	2025-06-05T13:35:44Z
+809754	Applicant decision: ['None']	2025-08-21T16:25:36Z
+809754	Offer was edited: ['Accepted']	2025-08-21T16:25:36Z
+809754	Offer was confirmed: ['Accepted']	2025-08-21T16:25:37Z
+809750	Application was flagged	2025-04-23T12:49:37Z
+809750	Interview was evaluated	2025-04-29T10:51:22Z
+809750	Applicant decision: ['None']	2025-05-09T16:10:14Z
+809750	Offer was edited: ['Conditionally accepted']	2025-05-09T16:10:14Z
+809750	Offer was confirmed: ['Conditionally accepted']	2025-05-09T16:10:14Z
+809750	Invoice was issued	2025-05-09T16:10:15Z
+809750	Invoice was edited	2025-05-09T16:10:28Z
+809750	Offer was edited: ['Other']	2025-05-09T16:10:35Z
+809750	Offer was confirmed: ['Other']	2025-05-09T16:10:35Z
+809750	Interview was evaluated	2025-05-20T09:34:24Z
+809750	Invoice was deleted	2025-05-31T10:35:18Z
+809750	Applicant decision: ['None']	2025-05-31T12:51:54Z
+809750	Offer was edited: ['Scholarship']	2025-05-31T12:51:54Z
+809750	Offer was confirmed: ['Scholarship']	2025-05-31T12:51:54Z
+809750	Applicant decision: ['None']	2025-05-31T12:53:41Z
+809750	Offer was edited: ['Conditionally accepted']	2025-05-31T12:53:41Z
+809750	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:53:42Z
+809750	Invoice was issued	2025-05-31T12:54:14Z
+809750	Invoice was issued	2025-05-31T12:54:44Z
+809750	Application was flagged	2025-06-06T10:21:47Z
+809750	Applicant decision: ['Final']	2025-06-20T16:12:37Z
+809750	Offer was edited: ['49']	2025-06-20T16:12:37Z
+809750	Offer was confirmed: ['49']	2025-06-20T16:12:37Z
+809750	Applicant decision: ['Final']	2025-08-15T11:06:28Z
+809750	Offer was edited: ['Accepted']	2025-08-15T11:06:28Z
+809750	Offer was confirmed: ['Accepted']	2025-08-15T11:06:28Z
+809844	Application was flagged	2025-04-23T12:49:20Z
+809844	Interview was evaluated	2025-04-30T10:35:20Z
+809844	Applicant decision: ['None']	2025-04-30T10:36:19Z
+809844	Offer was edited: ['Conditionally accepted']	2025-04-30T10:36:19Z
+809844	Offer was confirmed: ['Conditionally accepted']	2025-04-30T10:36:19Z
+809844	Invoice was issued	2025-04-30T10:36:19Z
+809844	Invoice was edited	2025-04-30T10:36:34Z
+809844	Offer was edited: ['Other']	2025-04-30T10:36:42Z
+809844	Offer was confirmed: ['Other']	2025-04-30T10:36:42Z
+809844	Interview was evaluated	2025-05-14T08:59:15Z
+809844	Applicant decision: ['None']	2025-05-30T15:51:36Z
+809844	Offer was edited: ['Scholarship']	2025-05-30T15:51:37Z
+809844	Offer was confirmed: ['Scholarship']	2025-05-30T15:51:37Z
+809844	Invoice was deleted	2025-05-30T15:52:00Z
+809844	Invoice was issued	2025-05-30T15:52:08Z
+809844	Applicant decision: ['Final']	2025-05-30T15:53:17Z
+809844	Offer was edited: ['Conditionally accepted']	2025-05-30T15:53:17Z
+809844	Offer was confirmed: ['Conditionally accepted']	2025-05-30T15:53:17Z
+809836	Application was flagged	2025-04-23T12:51:40Z
+809836	Interview was evaluated	2025-04-30T15:26:13Z
+809836	Applicant decision: ['None']	2025-04-30T15:27:02Z
+809836	Offer was edited: ['Conditionally accepted']	2025-04-30T15:27:02Z
+809836	Offer was confirmed: ['Conditionally accepted']	2025-04-30T15:27:02Z
+809836	Invoice was issued	2025-04-30T15:27:02Z
+809836	Invoice was edited	2025-04-30T15:27:14Z
+809836	Offer was edited: ['Other']	2025-04-30T15:27:23Z
+809836	Offer was confirmed: ['Other']	2025-04-30T15:27:23Z
+809836	Interview was evaluated	2025-05-09T15:06:07Z
+809836	Applicant decision: ['None']	2025-05-31T11:01:54Z
+809836	Offer was edited: ['Scholarship']	2025-05-31T11:01:54Z
+809836	Offer was confirmed: ['Scholarship']	2025-05-31T11:01:55Z
+809836	Applicant decision: ['None']	2025-05-31T11:01:57Z
+809836	Offer was edited: ['Scholarship']	2025-05-31T11:01:57Z
+809836	Offer was confirmed: ['Scholarship']	2025-05-31T11:01:57Z
+809836	Applicant decision: ['None']	2025-05-31T11:03:54Z
+809836	Offer was edited: ['Conditionally accepted']	2025-05-31T11:03:54Z
+809836	Offer was confirmed: ['Conditionally accepted']	2025-05-31T11:03:54Z
+809836	Invoice was deleted	2025-05-31T11:04:02Z
+809836	Invoice was issued	2025-05-31T11:04:16Z
+806155	Application was flagged	2025-04-23T12:54:44Z
+806155	Interview was evaluated	2025-05-01T10:41:21Z
+806155	Applicant decision: ['None']	2025-05-01T10:42:46Z
+806155	Offer was edited: ['Conditionally accepted']	2025-05-01T10:42:46Z
+806155	Offer was confirmed: ['Conditionally accepted']	2025-05-01T10:42:46Z
+806155	Invoice was issued	2025-05-01T10:42:46Z
+806155	Invoice was edited	2025-05-01T10:42:59Z
+806155	Offer was edited: ['Other']	2025-05-01T10:43:26Z
+806155	Offer was confirmed: ['Other']	2025-05-01T10:43:26Z
+806155	Interview was evaluated	2025-05-13T15:35:13Z
+806155	Applicant decision: ['None']	2025-06-05T11:33:12Z
+806155	Offer was edited: ['Scholarship']	2025-06-05T11:33:12Z
+806155	Offer was confirmed: ['Scholarship']	2025-06-05T11:33:13Z
+806155	Applicant decision: ['None']	2025-06-05T11:35:21Z
+806155	Offer was edited: ['Conditionally accepted']	2025-06-05T11:35:21Z
+806155	Offer was confirmed: ['Conditionally accepted']	2025-06-05T11:35:21Z
+806155	Invoice was deleted	2025-06-05T11:35:29Z
+806155	Invoice was issued	2025-06-05T11:35:35Z
+806155	Invoice was issued	2025-06-05T11:35:56Z
+806155	Invoice was edited	2025-06-07T09:17:48Z
+806230	Application was flagged	2025-04-23T13:29:13Z
+806230	Interview was evaluated	2025-04-26T10:51:12Z
+806230	Applicant decision: ['None']	2025-04-26T10:59:53Z
+806230	Offer was edited: ['Conditionally accepted']	2025-04-26T10:59:53Z
+806230	Offer was confirmed: ['Conditionally accepted']	2025-04-26T10:59:53Z
+806230	Invoice was issued	2025-04-26T10:59:53Z
+806230	Invoice was edited	2025-04-26T11:00:07Z
+806230	Offer was edited: ['Other']	2025-04-26T11:00:16Z
+806230	Offer was confirmed: ['Other']	2025-04-26T11:00:17Z
+806230	Application was flagged	2025-05-09T10:34:29Z
+806230	Applicant decision: ['Final']	2025-05-15T14:26:54Z
+806230	Offer was edited: ['49']	2025-05-15T14:26:54Z
+806230	Offer was confirmed: ['49']	2025-05-15T14:26:54Z
+806230	Interview was evaluated	2025-05-21T13:26:56Z
+806230	Applicant decision: ['None']	2025-06-05T11:38:04Z
+806230	Offer was edited: ['Scholarship']	2025-06-05T11:38:04Z
+806230	Offer was confirmed: ['Scholarship']	2025-06-05T11:38:05Z
+806230	Applicant decision: ['None']	2025-08-01T15:39:53Z
+806230	Offer was edited: ['Accepted']	2025-08-01T15:39:53Z
+806230	Offer was confirmed: ['Accepted']	2025-08-01T15:39:53Z
+808819	Application was flagged	2025-03-25T13:03:58Z
+808819	Interview was evaluated	2025-03-28T12:25:31Z
+808819	Applicant decision: ['None']	2025-04-05T12:16:20Z
+808819	Offer was edited: ['Conditionally accepted']	2025-04-05T12:16:20Z
+808819	Offer was confirmed: ['Conditionally accepted']	2025-04-05T12:16:21Z
+808819	Invoice was issued	2025-04-05T12:16:21Z
+808819	Invoice was edited	2025-04-05T12:16:47Z
+808819	Offer was edited: ['Other']	2025-04-05T12:17:31Z
+808819	Interview was evaluated	2025-05-10T15:32:05Z
+808819	Offer was edited: ['Failed']	2025-05-27T11:15:56Z
+808819	Offer was confirmed: ['Failed']	2025-05-27T11:15:57Z
+808819	Interview was evaluated	2025-05-29T20:12:23Z
+808819	Applicant decision: ['None']	2025-06-13T16:20:31Z
+808819	Offer was edited: ['Scholarship']	2025-06-13T16:20:31Z
+808819	Offer was confirmed: ['Scholarship']	2025-06-13T16:20:31Z
+808819	Invoice was deleted	2025-06-13T16:20:41Z
+808819	Invoice was issued	2025-06-13T16:21:22Z
+808819	Offer was edited: ['Other']	2025-06-19T14:46:32Z
+808819	Applicant decision: ['Declined']	2025-07-26T10:55:26Z
+808819	Offer was edited: ['49']	2025-07-26T10:55:26Z
+808819	Offer was confirmed: ['49']	2025-07-26T10:55:26Z
+808819	Applicant decision: ['Final']	2025-08-01T16:21:14Z
+808819	Offer was edited: ['Accepted']	2025-08-01T16:21:14Z
+808819	Offer was confirmed: ['Accepted']	2025-08-01T16:21:15Z
+808329	Application was flagged	2025-03-13T15:57:18Z
+808329	Application was un-flagged	2025-03-13T15:57:19Z
+808329	Application was flagged	2025-03-13T15:57:21Z
+808329	Interview was evaluated	2025-04-01T13:08:15Z
+808329	Applicant decision: ['None']	2025-05-01T13:59:11Z
+808329	Offer was edited: ['Conditionally accepted']	2025-05-01T13:59:11Z
+808329	Offer was confirmed: ['Conditionally accepted']	2025-05-01T13:59:11Z
+808329	Invoice was issued	2025-05-01T13:59:11Z
+808329	Invoice was edited	2025-05-01T13:59:57Z
+808329	Interview was evaluated	2025-05-08T14:36:42Z
+808329	Applicant decision: ['None']	2025-05-31T10:56:35Z
+808329	Offer was edited: ['Scholarship']	2025-05-31T10:56:35Z
+808329	Offer was confirmed: ['Scholarship']	2025-05-31T10:56:36Z
+808329	Applicant decision: ['None']	2025-05-31T10:57:35Z
+808329	Offer was edited: ['Conditionally accepted']	2025-05-31T10:57:35Z
+808329	Offer was confirmed: ['Conditionally accepted']	2025-05-31T10:57:35Z
+808329	Invoice was deleted	2025-05-31T10:57:55Z
+808329	Invoice was issued	2025-05-31T10:58:09Z
+808329	Application was flagged	2025-06-04T09:18:56Z
+808329	Applicant decision: ['Final']	2025-06-13T16:11:52Z
+808329	Offer was edited: ['49']	2025-06-13T16:11:52Z
+808329	Offer was confirmed: ['49']	2025-06-13T16:11:52Z
+808329	Applicant decision: ['None']	2025-08-15T09:43:06Z
+808329	Offer was edited: ['Accepted']	2025-08-15T09:43:06Z
+808329	Offer was confirmed: ['Accepted']	2025-08-15T09:43:06Z
+809453	Application was flagged	2025-04-23T16:00:40Z
+809453	Application was flagged	2025-04-23T16:01:00Z
+809453	Invoice was collected	2025-04-26T13:04:27Z
+809453	Invoice was collected in full	2025-04-26T13:04:27Z
+809453	Interview was evaluated	2025-04-30T08:24:34Z
+809453	Interview was evaluated	2025-05-28T09:02:54Z
+809453	Application was flagged	2025-06-03T14:52:38Z
+809453	Applicant decision: ['None']	2025-06-05T12:50:55Z
+809453	Offer was edited: ['Scholarship']	2025-06-05T12:50:55Z
+809453	Offer was confirmed: ['Scholarship']	2025-06-05T12:50:55Z
+809453	Applicant decision: ['None']	2025-06-05T12:53:03Z
+809453	Offer was edited: ['Conditionally accepted']	2025-06-05T12:53:03Z
+809453	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:53:03Z
+809453	Invoice was issued	2025-06-05T12:53:03Z
+809453	Invoice was deleted	2025-06-05T12:53:11Z
+809453	Invoice was issued	2025-06-05T12:53:21Z
+809453	Offer was edited: ['Other']	2025-06-05T12:53:31Z
+809453	Offer was confirmed: ['Other']	2025-06-05T12:53:31Z
+809453	Application was flagged	2025-06-07T12:54:04Z
+809453	Applicant decision: ['Final']	2025-08-13T10:23:07Z
+809453	Offer was edited: ['Accepted']	2025-08-13T10:23:07Z
+809453	Offer was confirmed: ['Accepted']	2025-08-13T10:23:07Z
+809798	Application was flagged	2025-04-23T15:48:07Z
+809798	Application was flagged	2025-04-23T15:48:14Z
+809798	Invoice was collected	2025-04-26T13:03:22Z
+809798	Invoice was collected in full	2025-04-26T13:03:22Z
+809798	Interview was evaluated	2025-04-30T08:23:39Z
+809798	Interview was evaluated	2025-05-22T15:25:58Z
+809798	Application was flagged	2025-06-03T14:50:42Z
+809798	Applicant decision: ['None']	2025-06-05T12:58:17Z
+809798	Offer was edited: ['Scholarship']	2025-06-05T12:58:17Z
+809798	Offer was confirmed: ['Scholarship']	2025-06-05T12:58:17Z
+809798	Applicant decision: ['None']	2025-06-05T12:59:28Z
+809798	Offer was edited: ['Conditionally accepted']	2025-06-05T12:59:28Z
+809798	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:59:28Z
+809798	Invoice was issued	2025-06-05T12:59:28Z
+809798	Invoice was deleted	2025-06-05T12:59:49Z
+809798	Invoice was issued	2025-06-05T12:59:57Z
+809798	Invoice was collected	2025-06-06T12:35:15Z
+809798	Invoice was collected in full	2025-06-06T12:35:15Z
+809798	Applicant decision: ['Final']	2025-06-20T16:25:23Z
+809798	Offer was edited: ['49']	2025-06-20T16:25:23Z
+809798	Offer was confirmed: ['49']	2025-06-20T16:25:23Z
+809798	Applicant decision: ['Final']	2025-08-13T10:20:09Z
+809798	Offer was edited: ['Accepted']	2025-08-13T10:20:09Z
+809798	Offer was confirmed: ['Accepted']	2025-08-13T10:20:09Z
+809932	Application was flagged	2025-04-23T11:06:39Z
+809932	Application was flagged	2025-04-23T11:06:46Z
+809932	Interview was evaluated	2025-04-30T09:25:13Z
+809932	Interview was evaluated	2025-05-28T13:09:34Z
+809932	Offer was edited: ['Failed']	2025-05-30T15:51:21Z
+809932	Offer was confirmed: ['Failed']	2025-05-30T15:51:21Z
+809932	Applicant decision: ['None']	2025-05-30T15:57:09Z
+809932	Offer was edited: ['Conditionally accepted']	2025-05-30T15:57:09Z
+809932	Offer was confirmed: ['Conditionally accepted']	2025-05-30T15:57:10Z
+809932	Invoice was issued	2025-05-30T15:57:10Z
+809932	Invoice was edited	2025-05-30T15:57:27Z
+809932	Invoice was edited	2025-05-30T15:57:29Z
+809932	Invoice was edited	2025-05-30T15:57:35Z
+809932	Applicant decision: ['None']	2025-06-17T12:51:10Z
+809932	Offer was edited: ['Scholarship']	2025-06-17T12:51:10Z
+809932	Offer was confirmed: ['Scholarship']	2025-06-17T12:51:11Z
+809932	Invoice was deleted	2025-08-01T12:17:46Z
+809932	Applicant decision: ['Declined']	2025-08-07T13:04:03Z
+809932	Offer was edited: ['49']	2025-08-07T13:04:03Z
+809932	Offer was confirmed: ['49']	2025-08-07T13:04:03Z
+809932	Applicant decision: ['Declined']	2025-08-09T14:40:38Z
+809932	Offer was edited: ['Accepted']	2025-08-09T14:40:38Z
+809932	Offer was confirmed: ['Accepted']	2025-08-09T14:40:38Z
+809758	Application was flagged	2025-04-23T11:26:55Z
+809758	Application was flagged	2025-04-30T09:49:54Z
+809758	Interview was evaluated	2025-04-30T09:49:58Z
+809758	Interview was evaluated	2025-05-20T09:15:07Z
+809758	Application was un-flagged	2025-06-03T13:29:35Z
+809758	Applicant decision: ['None']	2025-06-03T13:30:21Z
+809758	Offer was edited: ['Scholarship']	2025-06-03T13:30:21Z
+809758	Offer was confirmed: ['Scholarship']	2025-06-03T13:30:21Z
+809758	Invoice was issued	2025-06-03T13:30:49Z
+809758	Invoice was issued	2025-06-03T13:31:12Z
+809758	Applicant decision: ['None']	2025-06-03T13:33:37Z
+809758	Offer was edited: ['Conditionally accepted']	2025-06-03T13:33:37Z
+809758	Offer was confirmed: ['Conditionally accepted']	2025-06-03T13:33:37Z
+809758	Invoice was issued	2025-06-03T13:33:37Z
+809758	Invoice was deleted	2025-06-03T13:33:46Z
+809758	Application was flagged	2025-06-07T10:22:41Z
+809758	Application was flagged	2025-06-14T10:44:14Z
+809758	Document was uploaded	2025-06-20T14:15:08Z
+809758	Applicant decision: ['Final']	2025-06-26T12:53:49Z
+809758	Offer was edited: ['49']	2025-06-26T12:53:49Z
+809758	Offer was confirmed: ['49']	2025-06-26T12:53:49Z
+809758	Applicant decision: ['Final']	2025-08-15T09:42:44Z
+809758	Offer was edited: ['Accepted']	2025-08-15T09:42:44Z
+809758	Offer was confirmed: ['Accepted']	2025-08-15T09:42:45Z
+809619	Application was flagged	2025-05-16T21:38:34Z
+809619	Application was flagged	2025-05-16T21:40:26Z
+809619	Interview was evaluated	2025-05-16T21:40:50Z
+809619	Interview was evaluated	2025-05-29T20:19:25Z
+809619	Applicant decision: ['None']	2025-06-05T11:26:02Z
+809619	Offer was edited: ['Scholarship']	2025-06-05T11:26:02Z
+809619	Offer was confirmed: ['Scholarship']	2025-06-05T11:26:02Z
+809619	Applicant decision: ['None']	2025-06-05T11:27:45Z
+809619	Offer was edited: ['Conditionally accepted']	2025-06-05T11:27:45Z
+809619	Offer was confirmed: ['Conditionally accepted']	2025-06-05T11:27:46Z
+809619	Invoice was issued	2025-06-05T11:27:46Z
+809619	Invoice was deleted	2025-06-05T11:27:54Z
+809619	Invoice was issued	2025-06-05T11:28:02Z
+809619	Invoice was issued	2025-06-05T11:28:20Z
+809619	Invoice was edited	2025-06-10T09:45:51Z
+809619	Invoice was edited	2025-06-10T09:46:19Z
+809619	Applicant decision: ['None']	2025-06-10T09:46:42Z
+809619	Offer was edited: ['Conditionally accepted']	2025-06-10T09:46:42Z
+809619	Offer was confirmed: ['Conditionally accepted']	2025-06-10T09:46:42Z
+809619	Application was un-flagged	2025-07-16T16:21:25Z
+808902	Application was flagged	2025-04-23T11:22:41Z
+808902	Application was flagged	2025-04-29T12:47:52Z
+808902	Interview was evaluated	2025-04-29T12:52:49Z
+808902	Application was flagged	2025-05-09T16:04:45Z
+808902	Application was assigned	2025-05-16T16:33:39Z
+808902	Application was flagged	2025-05-22T10:33:20Z
+808902	Application was un-assigned	2025-05-23T13:22:20Z
+808902	Interview was evaluated	2025-05-28T13:57:31Z
+808902	Applicant decision: ['None']	2025-05-31T10:20:50Z
+808902	Offer was edited: ['Conditionally accepted']	2025-05-31T10:20:50Z
+808902	Offer was confirmed: ['Conditionally accepted']	2025-05-31T10:20:51Z
+808902	Invoice was issued	2025-05-31T10:20:51Z
+808902	Invoice was edited	2025-05-31T10:21:22Z
+808902	Offer was edited: ['Other']	2025-05-31T10:21:39Z
+808902	Offer was confirmed: ['Other']	2025-05-31T10:21:39Z
+808902	Applicant decision: ['None']	2025-05-31T10:22:37Z
+808902	Offer was edited: ['Scholarship']	2025-05-31T10:22:37Z
+808902	Offer was confirmed: ['Scholarship']	2025-05-31T10:22:37Z
+808902	Applicant decision: ['None']	2025-05-31T10:22:50Z
+808902	Offer was edited: ['Scholarship']	2025-05-31T10:22:50Z
+808902	Offer was confirmed: ['Scholarship']	2025-05-31T10:22:50Z
+808902	Offer was edited: ['Other']	2025-05-31T10:22:58Z
+808902	Offer was confirmed: ['Other']	2025-05-31T10:22:58Z
+808902	Invoice was edited	2025-05-31T12:29:27Z
+808902	Applicant decision: ['None']	2025-06-05T13:13:29Z
+808902	Offer was edited: ['Scholarship']	2025-06-05T13:13:29Z
+808902	Application was un-flagged	2025-06-05T15:12:36Z
+808902	Invoice was deleted	2025-06-12T11:02:41Z
+808902	Invoice was issued	2025-06-12T11:05:30Z
+808902	Invoice was issued	2025-06-12T11:07:13Z
+808902	Application was flagged	2025-06-26T12:45:18Z
+808902	Invoice was collected	2025-07-01T14:51:55Z
+808902	Invoice was collected in full	2025-07-01T14:51:55Z
+808902	Applicant decision: ['Final']	2025-08-22T11:11:07Z
+808902	Offer was edited: ['49']	2025-08-22T11:11:07Z
+808902	Offer was confirmed: ['49']	2025-08-22T11:11:08Z
+808902	Applicant decision: ['Final']	2025-08-22T12:29:23Z
+808902	Offer was edited: ['Accepted']	2025-08-22T12:29:24Z
+808902	Offer was confirmed: ['Accepted']	2025-08-22T12:29:24Z
+809930	Application was flagged	2025-04-23T11:14:34Z
+809930	Application was flagged	2025-04-29T10:47:01Z
+809930	Interview was evaluated	2025-05-03T09:22:02Z
+809930	Applicant decision: ['None']	2025-05-03T09:22:51Z
+809930	Offer was edited: ['Conditionally accepted']	2025-05-03T09:22:51Z
+809930	Offer was confirmed: ['Conditionally accepted']	2025-05-03T09:22:51Z
+809930	Invoice was issued	2025-05-03T09:22:51Z
+809930	Invoice was edited	2025-05-03T09:23:04Z
+809930	Offer was edited: ['Other']	2025-05-03T09:23:14Z
+809930	Offer was confirmed: ['Other']	2025-05-03T09:23:14Z
+809930	Application was un-flagged	2025-05-15T15:05:18Z
+809930	Interview was evaluated	2025-05-22T13:04:58Z
+809930	Applicant decision: ['None']	2025-06-05T14:20:15Z
+809930	Offer was edited: ['Scholarship']	2025-06-05T14:20:15Z
+809930	Offer was confirmed: ['Scholarship']	2025-06-05T14:20:16Z
+809930	Invoice was deleted	2025-06-05T14:20:23Z
+809930	Invoice was issued	2025-06-05T14:20:30Z
+809930	Invoice was issued	2025-06-05T14:20:49Z
+809930	Applicant decision: ['Final']	2025-06-05T14:22:06Z
+809930	Offer was edited: ['Conditionally accepted']	2025-06-05T14:22:06Z
+809930	Offer was confirmed: ['Conditionally accepted']	2025-06-05T14:22:06Z
+808504	Application was flagged	2025-02-25T09:03:07Z
+808504	Application was flagged	2025-02-25T12:04:07Z
+808504	Application was flagged	2025-04-03T15:14:42Z
+808504	Invoice was deleted	2025-04-23T15:11:19Z
+808504	Application was un-flagged	2025-04-23T15:11:28Z
+808504	Application was flagged	2025-04-23T15:11:39Z
+808504	Interview was evaluated	2025-05-06T11:25:59Z
+808504	Applicant decision: ['None']	2025-05-06T12:08:15Z
+808504	Offer was edited: ['Conditionally accepted']	2025-05-06T12:08:15Z
+808504	Offer was confirmed: ['Conditionally accepted']	2025-05-06T12:08:15Z
+808504	Invoice was issued	2025-05-06T12:08:16Z
+808504	Invoice was edited	2025-05-06T12:09:31Z
+808504	Applicant decision: ['None']	2025-05-06T12:10:02Z
+808504	Offer was edited: ['Conditionally accepted']	2025-05-06T12:10:02Z
+808504	Offer was confirmed: ['Conditionally accepted']	2025-05-06T12:10:02Z
+808504	Invoice was edited	2025-05-14T15:30:40Z
+808504	Interview was evaluated	2025-05-27T15:29:55Z
+808504	Invoice was edited	2025-06-06T09:33:09Z
+808504	Applicant decision: ['Final']	2025-06-06T09:33:19Z
+808504	Offer was edited: ['Conditionally accepted']	2025-06-06T09:33:19Z
+808504	Offer was confirmed: ['Conditionally accepted']	2025-06-06T09:33:19Z
+808504	Offer was edited: ['Failed']	2025-06-06T09:57:18Z
+808504	Offer was confirmed: ['Failed']	2025-06-06T09:57:18Z
+808504	Invoice was edited	2025-06-06T18:13:33Z
+808504	Applicant decision: ['None']	2025-06-17T12:50:11Z
+808504	Offer was edited: ['Scholarship']	2025-06-17T12:50:11Z
+808504	Offer was confirmed: ['Scholarship']	2025-06-17T12:50:11Z
+808504	Invoice was deleted	2025-06-17T12:50:21Z
+808504	Invoice was issued	2025-06-17T12:50:28Z
+808504	Invoice was collected	2025-07-01T14:03:36Z
+808504	Invoice was collected in full	2025-07-01T14:03:36Z
+808504	Offer was edited: ['49']	2025-07-25T16:20:50Z
+808504	Offer was confirmed: ['49']	2025-07-25T16:20:50Z
+808504	Applicant decision: ['None']	2025-08-15T09:38:40Z
+808504	Offer was edited: ['Accepted']	2025-08-15T09:38:40Z
+808504	Offer was confirmed: ['Accepted']	2025-08-15T09:38:40Z
+809654	Application was flagged	2025-04-23T11:23:37Z
+809654	Application was flagged	2025-04-29T15:54:19Z
+809654	Applicant decision: ['None']	2025-04-29T16:06:48Z
+809654	Offer was edited: ['Conditionally accepted']	2025-04-29T16:06:48Z
+809654	Offer was confirmed: ['Conditionally accepted']	2025-04-29T16:06:48Z
+809654	Invoice was issued	2025-04-29T16:06:48Z
+809654	Invoice was deleted	2025-04-29T16:06:57Z
+809654	Invoice was issued	2025-04-29T16:07:40Z
+809654	Interview was evaluated	2025-04-30T09:23:15Z
+809654	Interview was evaluated	2025-05-22T12:16:48Z
+809654	Applicant decision: ['None']	2025-06-05T13:17:17Z
+809654	Offer was edited: ['Scholarship']	2025-06-05T13:17:17Z
+809654	Offer was confirmed: ['Scholarship']	2025-06-05T13:17:17Z
+809654	Applicant decision: ['Final']	2025-06-05T13:18:36Z
+809654	Offer was edited: ['Conditionally accepted']	2025-06-05T13:18:36Z
+809654	Offer was confirmed: ['Conditionally accepted']	2025-06-05T13:18:37Z
+809654	Invoice was edited	2025-06-05T13:21:21Z
+809654	Invoice was collected	2025-06-11T15:27:19Z
+809654	Invoice was collected in full	2025-06-11T15:27:19Z
+809654	Offer was edited: ['49']	2025-06-24T11:32:31Z
+809654	Offer was confirmed: ['49']	2025-06-24T11:32:31Z
+809654	Applicant decision: ['None']	2025-08-15T12:31:38Z
+809654	Offer was edited: ['Accepted']	2025-08-15T12:31:38Z
+809654	Offer was confirmed: ['Accepted']	2025-08-15T12:31:38Z
+808333	Application was flagged	2025-03-04T12:17:46Z
+808333	Applicant decision: ['None']	2025-03-05T09:29:39Z
+808333	Offer was edited: ['Conditionally accepted']	2025-03-05T09:29:39Z
+808333	Offer was confirmed: ['Conditionally accepted']	2025-03-05T09:29:39Z
+808333	Invoice was issued	2025-03-05T09:29:39Z
+808333	Invoice was edited	2025-03-05T09:29:59Z
+808333	Offer was edited: ['Other']	2025-03-05T09:30:10Z
+808333	Offer was confirmed: ['Other']	2025-03-05T09:30:10Z
+808333	Offer was edited: ['Other']	2025-03-05T09:30:14Z
+808333	Offer was confirmed: ['Other']	2025-03-05T09:30:14Z
+808333	Interview was evaluated	2025-03-05T09:30:19Z
+808333	Interview was evaluated	2025-05-21T15:58:15Z
+808333	Applicant decision: ['None']	2025-06-05T12:43:50Z
+808333	Offer was edited: ['Scholarship']	2025-06-05T12:43:50Z
+808333	Offer was confirmed: ['Scholarship']	2025-06-05T12:43:50Z
+808333	Applicant decision: ['Final']	2025-06-05T12:44:57Z
+808333	Offer was edited: ['Conditionally accepted']	2025-06-05T12:44:57Z
+808333	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:44:57Z
+808333	Invoice was deleted	2025-06-05T12:45:05Z
+808333	Invoice was issued	2025-06-05T12:45:13Z
+808333	Applicant decision: ['Final']	2025-09-27T09:51:29Z
+808333	Offer was edited: ['50']	2025-09-27T09:51:29Z
+809588	Application was flagged	2025-04-23T11:29:01Z
+809588	Applicant decision: ['None']	2025-04-29T12:37:29Z
+809588	Offer was edited: ['Conditionally accepted']	2025-04-29T12:37:29Z
+809588	Offer was confirmed: ['Conditionally accepted']	2025-04-29T12:37:29Z
+809588	Invoice was issued	2025-04-29T12:37:29Z
+809588	Invoice was edited	2025-04-29T12:38:32Z
+809588	Interview was evaluated	2025-04-29T12:39:04Z
+809588	Invoice was deleted	2025-05-22T15:42:15Z
+809588	Interview was evaluated	2025-05-28T14:06:13Z
+809588	Application was flagged	2025-05-28T14:06:24Z
+809588	Application was flagged	2025-05-31T11:16:34Z
+809588	Applicant decision: ['Final']	2025-05-31T12:27:20Z
+809588	Offer was edited: ['Conditionally accepted']	2025-05-31T12:27:20Z
+809588	Offer was confirmed: ['Conditionally accepted']	2025-05-31T12:27:20Z
+809588	Invoice was issued	2025-05-31T12:27:41Z
+809588	Applicant decision: ['None']	2025-05-31T12:27:58Z
+809588	Offer was edited: ['Scholarship']	2025-05-31T12:27:58Z
+809588	Offer was confirmed: ['Scholarship']	2025-05-31T12:27:58Z
+809588	Invoice was edited	2025-05-31T12:28:53Z
+809588	Offer was edited: ['49']	2025-07-11T16:23:26Z
+809588	Offer was confirmed: ['49']	2025-07-11T16:23:26Z
+809588	Applicant decision: ['None']	2025-08-15T13:08:51Z
+809588	Offer was edited: ['Accepted']	2025-08-15T13:08:51Z
+809588	Offer was confirmed: ['Accepted']	2025-08-15T13:08:51Z
+809140	Applicant decision: ['None']	2025-04-16T14:50:07Z
+809140	Offer was edited: ['Conditionally accepted']	2025-04-16T14:50:07Z
+809140	Offer was confirmed: ['Conditionally accepted']	2025-04-16T14:50:07Z
+809140	Invoice was issued	2025-04-16T14:50:08Z
+809140	Invoice was edited	2025-04-16T14:50:26Z
+809140	Offer was edited: ['Other']	2025-04-16T14:50:44Z
+809140	Offer was confirmed: ['Other']	2025-04-16T14:50:44Z
+809140	Offer was edited: ['Other']	2025-04-16T14:50:58Z
+809140	Offer was confirmed: ['Other']	2025-04-16T14:50:58Z
+809140	Offer was edited: ['Other']	2025-04-16T14:51:20Z
+809140	Offer was confirmed: ['Other']	2025-04-16T14:51:20Z
+809140	Interview was evaluated	2025-04-16T14:51:26Z
+809140	Application was flagged	2025-04-16T16:05:34Z
+809140	Application was flagged	2025-04-24T14:27:10Z
+809140	Interview was evaluated	2025-05-22T09:08:36Z
+809140	Applicant decision: ['None']	2025-06-05T12:36:01Z
+809140	Offer was edited: ['Scholarship']	2025-06-05T12:36:01Z
+809140	Offer was confirmed: ['Scholarship']	2025-06-05T12:36:01Z
+809140	Applicant decision: ['Final']	2025-06-05T12:37:02Z
+809140	Offer was edited: ['Conditionally accepted']	2025-06-05T12:37:02Z
+809140	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:37:03Z
+809140	Invoice was deleted	2025-06-05T12:37:20Z
+809140	Invoice was issued	2025-06-05T12:37:26Z
+807339	Applicant decision: ['None']	2025-02-19T16:46:08Z
+807339	Offer was edited: ['Conditionally accepted']	2025-02-19T16:46:08Z
+807339	Offer was confirmed: ['Conditionally accepted']	2025-02-19T16:46:08Z
+807339	Invoice was issued	2025-02-19T16:46:08Z
+807339	Invoice was edited	2025-02-19T16:46:27Z
+807339	Application was flagged	2025-02-19T16:48:20Z
+807339	Interview was evaluated	2025-02-19T16:48:26Z
+807339	Interview was evaluated	2025-05-21T15:20:21Z
+807339	Applicant decision: ['None']	2025-06-05T12:47:40Z
+807339	Offer was edited: ['Scholarship']	2025-06-05T12:47:40Z
+807339	Offer was confirmed: ['Scholarship']	2025-06-05T12:47:40Z
+807339	Applicant decision: ['None']	2025-06-05T12:48:47Z
+807339	Offer was edited: ['Conditionally accepted']	2025-06-05T12:48:47Z
+807339	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:48:48Z
+807339	Invoice was deleted	2025-06-05T12:48:58Z
+807339	Invoice was issued	2025-06-05T12:49:09Z
+807339	Application was flagged	2025-06-11T15:38:52Z
+807339	Applicant decision: ['Final']	2025-06-19T14:33:17Z
+807339	Offer was edited: ['49']	2025-06-19T14:33:17Z
+807339	Offer was confirmed: ['49']	2025-06-19T14:33:17Z
+807339	Applicant decision: ['Final']	2025-08-13T13:11:25Z
+807339	Offer was edited: ['Accepted']	2025-08-13T13:11:25Z
+807339	Offer was confirmed: ['Accepted']	2025-08-13T13:11:25Z
+807339	Applicant decision: ['Final']	2025-10-08T10:20:50Z
+807339	Offer was edited: ['51']	2025-10-08T10:20:50Z
+807339	Offer was confirmed: ['51']	2025-10-08T10:20:50Z
+807338	Applicant decision: ['Declined']	2025-02-20T11:35:52Z
+807338	Offer was edited: ['Waitlisted']	2025-02-20T11:35:52Z
+807338	Applicant decision: ['Declined']	2025-02-20T11:35:59Z
+807338	Offer was edited: ['50']	2025-02-20T11:35:59Z
+807338	Applicant decision: ['None']	2025-02-21T09:13:22Z
+807338	Offer was edited: ['Conditionally accepted']	2025-02-21T09:13:22Z
+807338	Offer was confirmed: ['Conditionally accepted']	2025-02-21T09:13:23Z
+807338	Invoice was issued	2025-02-21T09:13:23Z
+807338	Invoice was edited	2025-02-21T09:13:38Z
+807338	Application was flagged	2025-02-21T09:13:50Z
+807338	Interview was evaluated	2025-02-21T09:13:55Z
+807338	Interview was evaluated	2025-05-21T15:18:00Z
+807338	Applicant decision: ['None']	2025-06-05T12:27:09Z
+807338	Offer was edited: ['Scholarship']	2025-06-05T12:27:09Z
+807338	Offer was confirmed: ['Scholarship']	2025-06-05T12:27:09Z
+807338	Applicant decision: ['None']	2025-06-05T12:28:23Z
+807338	Offer was edited: ['Conditionally accepted']	2025-06-05T12:28:23Z
+807338	Offer was confirmed: ['Conditionally accepted']	2025-06-05T12:28:23Z
+807338	Invoice was deleted	2025-06-05T12:28:30Z
+807338	Invoice was issued	2025-06-05T12:28:36Z
+807338	Application was flagged	2025-06-11T15:36:21Z
+807338	Applicant decision: ['Final']	2025-06-19T13:31:56Z
+807338	Offer was edited: ['49']	2025-06-19T13:31:56Z
+807338	Offer was confirmed: ['49']	2025-06-19T13:31:56Z
+807338	Applicant decision: ['Final']	2025-08-12T13:55:59Z
+807338	Offer was edited: ['Accepted']	2025-08-12T13:55:59Z
+807338	Offer was confirmed: ['Accepted']	2025-08-12T13:55:59Z
+807338	Applicant decision: ['Final']	2025-09-30T10:20:01Z
+807338	Offer was edited: ['51']	2025-09-30T10:20:01Z
+807338	Offer was confirmed: ['51']	2025-09-30T10:20:02Z

@@ -57,4 +57,120 @@ MIT Deep Learning 6.S191 – Lecture 2 🔁	Which concept from Lecture 2 did you
 
 
 
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How does a computer "see" an image? Explain what an image is as input to a neural network.	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Describe the difference between regression and classification tasks in computer vision, with an example of each.	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why are hand-engineered visual features hard to scale, and how does deep learning address this with a hierarchy of learned features?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why is a fully connected network a poor choice for image data? Discuss the number of parameters and the loss of spatial structure.	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Explain the idea of connecting each neuron to only a local patch of the input. Why does this make sense for images?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Walk through the convolution operation with a 3×3 filter: what is multiplied, what is summed, and what comes out?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	What is a feature map, and what does each filter in a convolutional layer learn to detect?	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why does a CNN share the same filter weights across all positions in the image, and what benefit does this bring?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How can a CNN recognize the same pattern, such as an "X", even when it is shifted, scaled, rotated, or deformed?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How do the number of filters in a layer and the filter size affect the output volume and the number of parameters?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why is a non-linearity such as ReLU applied after a convolution?	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	What does pooling do, and why do we downsample feature maps? When might it hurt performance?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Compare max pooling and mean pooling. What are the trade-offs between them?	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Describe the two main parts of a CNN for image classification: feature learning and the classification head.	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why do we flatten the feature maps before the final dense layers, and what does the softmax output represent?	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	What kinds of features would you expect early layers of a CNN to learn compared with deeper layers?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How would you train a CNN, and which loss function would you use for a multi-class classification problem?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Why is object detection harder than classification? Explain why trying every possible box in an image is not feasible.	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Explain the R-CNN idea of proposing regions and classifying each one. What are its main drawbacks?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How does Faster R-CNN improve on R-CNN by learning its own region proposals?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	What is semantic segmentation, and how does it differ from classification and object detection?	60
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Explain how a fully convolutional network uses downsampling followed by upsampling to label every pixel.	120
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Describe how a transposed convolution upsamples a feature map.	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	How can a CNN be used for continuous control, for example learning to steer a vehicle directly from camera images?	90
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Which risks, such as bias in the training data, should be considered when deploying vision systems in the real world?	120
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Pick a vision problem from your own field, such as medical images, satellite images, or quality inspection, and describe how you would design a CNN for it.	120
+MIT Deep Learning 6.S191 – Lecture 3 👁️	Which concept from Lecture 3 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+
+
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What is the difference between supervised and unsupervised learning, and where do generative models fit in?	60
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What does it mean for a model to be generative? Describe the goal of learning the underlying distribution of the data.	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Give two applications of generative models, such as density estimation, sampling, or outlier detection, and explain why they matter.	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What is a latent variable, and why is it useful to represent complex data with a smaller set of hidden factors?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Explain how an autoencoder works. What are the encoder, the bottleneck, and the decoder?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Why does an autoencoder need a bottleneck layer? What would happen without it?	60
+MIT Deep Learning 6.S191 – Lecture 4 🎨	How is an autoencoder trained without labels, and which reconstruction loss would you use?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What is the main limitation of a standard autoencoder when you want to generate new data?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	How does a variational autoencoder differ from a standard autoencoder? What does the encoder output instead of a single latent vector?	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Explain the two terms of the VAE loss: the reconstruction term and the regularization term.	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What is a prior on the latent distribution, and why is a standard normal distribution a common choice?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What role does the KL divergence play in a VAE?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Why can't we backpropagate through a random sampling step, and how does the reparameterization trick solve this?	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What does it mean for a latent space to be continuous and complete, and why does this matter for generation?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Explain latent perturbation and disentanglement. How would you check that each latent dimension controls a separate factor?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	How can a VAE be used to find and reduce bias in a dataset, for example by oversampling rare or underrepresented examples?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Describe the setup of a generative adversarial network: what are the generator and the discriminator?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Explain the adversarial game between the generator and the discriminator, using an analogy such as a forger and an art detective.	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	How does the generator turn random noise into a realistic sample? What does the discriminator learn from real and fake data?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Why is training GANs known to be difficult? Discuss problems such as instability and mode collapse.	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	How do VAEs and GANs compare in terms of sample quality, training stability, and the ability to model the latent space?	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What is CycleGAN, and how can it translate images between two domains without paired examples?	90
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Give the basic idea of diffusion models: what does it mean to gradually add noise to data and then learn to reverse it?	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	What ethical and societal risks do generative models bring, such as deepfakes and misinformation, and how could they be reduced?	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Pick a problem from your own field, such as synthetic data, image enhancement, or molecule design, and explain which generative model you would use and why.	120
+MIT Deep Learning 6.S191 – Lecture 4 🎨	Which concept from Lecture 4 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+
+MIT Deep Learning 6.S191 – Lecture 5 🎮	How does reinforcement learning differ from supervised and unsupervised learning? Describe what kind of feedback the learner receives.	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Define the main elements of a reinforcement learning problem: agent, environment, state, action, and reward.	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Give an example of an RL problem, such as a game or a robot, and describe its agent, environment, actions, and rewards.	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What is the difference between a reward and a return? Why do we discount future rewards?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Explain the Q function. What does Q(s, a) tell you about a state and an action?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Given a known Q function, how does the agent choose which action to take? What is the resulting policy?	60
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Why can't we store a Q value in a table for every state-action pair in complex problems such as Atari games?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	How does a Deep Q Network use a neural network to approximate the Q function? What are its inputs and outputs?	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Explain how a Deep Q Network is trained. What are the target Q value and the loss that compares it with the prediction?	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Why is it more efficient for the network to output a Q value for every possible action at once?	60
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What are the main limitations of Deep Q Networks? Discuss action spaces and the type of environments they handle.	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What is policy learning, and how does it differ from value learning?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Explain what a policy network outputs. How is its output used to select actions?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Why can policy-based methods handle continuous action spaces more easily than Deep Q Networks?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Describe the policy gradient idea: how do we increase the probability of actions that led to high rewards?	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Walk through one training loop for a policy gradient method: running episodes, collecting rewards, and updating the weights.	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What is the exploration versus exploitation trade-off, and how can an agent balance the two?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Why is it difficult to train RL agents in the real world, for example a self-driving car? How can simulation help?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What is the "sim-to-real" gap, and what could you do to make a policy trained in simulation transfer better?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	How did AlphaGo combine deep neural networks with reinforcement learning and search to play Go?	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What changed between AlphaGo, AlphaZero, and MuZero? What does it mean to learn without human game data or known rules?	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	How can the design of the reward function lead to unwanted agent behavior, and how would you avoid it?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	What safety and ethical issues should be considered when deploying RL agents in real systems?	90
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Pick a problem from your own field, such as robotics, energy control, or scheduling, and describe how you would set it up as an RL problem.	120
+MIT Deep Learning 6.S191 – Lecture 5 🎮	Which concept from Lecture 5 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What is a language model? Explain how it predicts the next token and why this simple task is so powerful.	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What is tokenization, and why do language models work with tokens instead of whole words or single characters?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Briefly explain why the Transformer and its attention mechanism made it possible to scale language models.	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What does it mean to pretrain a large language model, and what kind of data and objective are used?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	How does fine-tuning, including instruction tuning, adapt a pretrained model to a specific task?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What is the role of human feedback in aligning a language model with what people want?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Explain scaling laws: how do model size, data, and compute relate to performance, and what are their limits?	120
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What is prompting, and how can few-shot examples or step-by-step reasoning change a model's answer?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What is hallucination in language models, and what can be done to reduce it?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	How can a model be given access to outside information, for example through retrieval or tools, and why does this help?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What does it mean for a model to generalize, and why can models fail on data that differs from their training data?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What are adversarial examples, and what do they tell us about the robustness of neural networks?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Why is uncertainty estimation important in safety-critical applications such as medicine or driving? How could a model signal when it is unsure?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	How can bias in training data lead to unfair model behavior, and what steps can you take to detect and reduce it?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What are multimodal models, and what new tasks become possible when text, images, and audio are combined?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What are AI agents, and how do they differ from a model that only answers a single prompt?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Discuss the cost of training and running large models. What are the environmental and access concerns?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What are the main ways to make models smaller and cheaper, such as distillation or quantization?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	How can neural networks handle data that is not a grid or a sequence, such as molecules or social networks, using graph-based models?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Why is it hard to interpret what a large neural network has learned, and what approaches exist to explain its decisions?	90
+MIT Deep Learning 6.S191 – Lecture 6 🚀	What are the risks of misuse of powerful AI systems, and who should be responsible for managing them?	120
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Which open problem in deep learning do you find most exciting or important, and why?	120
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Pick a problem from your own field and describe how a recent deep learning advance could help solve it, and what could go wrong.	120
+MIT Deep Learning 6.S191 – Lecture 6 🚀	Which concept from Lecture 6 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+
+
 

@@ -26,3 +26,35 @@ MIT Deep Learning 6.S191 – Lecture 1 🧠	Explain how dropout regularization w
 MIT Deep Learning 6.S191 – Lecture 1 🧠	How does early stopping work, and what data do you need in order to apply it correctly?	60
 MIT Deep Learning 6.S191 – Lecture 1 🧠	Describe a real-world problem from your own field where you would apply a neural network, and how you would set it up.	120
 MIT Deep Learning 6.S191 – Lecture 1 🧠	Which concept from Lecture 1 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Give three examples of sequential data from different fields, and explain what makes them different from a single, independent data point.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Why can't a standard feed-forward network handle sequences well, for example by feeding in a whole sentence as one fixed-size vector?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What are the key design criteria a model for sequence data must meet, such as variable length, order, and long-term dependencies?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Describe the difference between many-to-one, one-to-many, and many-to-many sequence tasks, with an example of each.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Explain next-word prediction as a sequence modeling problem. What is the input and what is the target?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What is a recurrent neural network? Explain the idea of a hidden state that is passed from one time step to the next.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Write down or describe the recurrence relation of an RNN and explain what each term represents.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Why do RNNs reuse the same weights at every time step, and what advantage does this give?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Explain how an RNN can be viewed as "unrolled" across time and why this view is useful for training.	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Why do neural networks need numerical inputs for words, and what is the problem with simply assigning each word an index number?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Compare one-hot encoding with a learned embedding. Why do learned embeddings place similar words close together?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Explain backpropagation through time. How does it differ from ordinary backpropagation in a feed-forward network?	120
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What causes exploding gradients in an RNN, and how does gradient clipping help?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What causes vanishing gradients, and why do they make learning long-term dependencies so hard?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Name some ways to reduce the vanishing gradient problem, such as the choice of activation function, weight initialization, or a gated architecture.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	How do gated cells like the LSTM help a network keep or forget information over long sequences?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Give an example sentence where the right prediction depends on a word that appeared many steps earlier, and explain why a plain RNN would struggle.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Describe the encoding bottleneck of RNNs. Why is squeezing a whole sequence into one state vector a problem?	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Why can't RNNs be parallelized across time steps, and why does this matter for training on large datasets?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What is the core idea of attention? Explain it to someone who has never studied neural networks.	90
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Explain self-attention in terms of queries, keys, and values. How is the attention weighting between two positions computed?	120
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Why do Transformers need positional encoding when they process all tokens at once?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	How does self-attention address the three limitations of RNNs: the encoding bottleneck, lack of parallelism, and weak long-term memory?	120
+MIT Deep Learning 6.S191 – Lecture 2 🔁	What is the benefit of using multiple attention heads instead of just one?	60
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Pick a sequence problem from your own field, such as audio, time series, text, or sensor data, and describe whether you would use an RNN or a Transformer and why.	120
+MIT Deep Learning 6.S191 – Lecture 2 🔁	Which concept from Lecture 2 did you find hardest to understand, and how did you try to make sense of it?	90
+
+
+
+

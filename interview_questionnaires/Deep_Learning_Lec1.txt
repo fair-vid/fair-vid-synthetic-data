@@ -1,0 +1,43 @@
+Study_Program	Question	Time
+Master's degree in Biomedical Engineering 🧬	Describe a specific medical device that you believe needs significant improvement and how you would approach it.	90
+Master's degree in Biomedical Engineering 🧬	How do you balance the trade-off between functionality and biocompatibility in material selection?	60
+Master's degree in Biomedical Engineering 🧬	Explain the concept of tissue engineering to someone without a medical background.	60
+Master's degree in Biomedical Engineering 🧬	What role does signal processing play in modern diagnostic equipment like ECGs?	60
+Master's degree in Biomedical Engineering 🧬	Discuss a recent breakthrough in biomedical research that influences your study goals.	90
+Master's degree in Biomedical Engineering 🧬	How do you plan to handle the ethical considerations involved in genetic engineering or human trials?	90
+Master's degree in Biomedical Engineering 🧬	What programming languages or software tools have you used for biological data analysis?	45
+Master's degree in Biomedical Engineering 🧬	Where do you see the intersection of AI and biomedical engineering in the next decade?	90
+Master's degree in Aerospace Engineering 🛰️	How does the Reynolds number influence the design of an airfoil?	60
+Master's degree in Aerospace Engineering 🛰️	Discuss the primary challenges in developing sustainable aviation fuels.	90
+Master's degree in Aerospace Engineering 🛰️	What materials would you select for a high-stress turbine blade and why?	60
+Master's degree in Aerospace Engineering 🛰️	Explain the difference between static and dynamic stability in aircraft design.	60
+Master's degree in Aerospace Engineering 🛰️	How would you approach the thermal management of a satellite in orbit?	90
+Master's degree in Aerospace Engineering 🛰️	What is your opinion on the commercialization of space travel?	90
+Master's degree in Aerospace Engineering 🛰️	Describe a time you had to troubleshoot a mechanical failure in a project.	120
+Master's degree in Aerospace Engineering 🛰️	How do computational fluid dynamics (CFD) simulations compare to wind tunnel testing?	90
+Master's degree in Electronics Engineering ⚡	Explain the difference between a microcontroller and a microprocessor.	60
+Master's degree in Electronics Engineering ⚡	How would you reduce noise in a sensitive analog signal path?	90
+Master's degree in Electronics Engineering ⚡	What are the advantages of using FPGA over traditional ASICs in prototyping?	60
+Master's degree in Electronics Engineering ⚡	Describe the latest trends in semiconductor manufacturing that interest you.	60
+Master's degree in Electronics Engineering ⚡	How do you approach power management in battery-operated IoT devices?	90
+Master's degree in Electronics Engineering ⚡	Can you explain the significance of bandgap in semiconductor materials?	60
+Master's degree in Electronics Engineering ⚡	What was the most complex circuit you have designed and tested?	120
+Master's degree in Electronics Engineering ⚡	How do communication protocols like SPI and I2C differ in application?	60
+Msc in Environmental Engineering and Management	What strategies would you propose for effective solid waste management in a dense urban area?	90
+Msc in Environmental Engineering and Management	Explain the concept of Life Cycle Assessment (LCA) and its importance.	60
+Msc in Environmental Engineering and Management	How does climate change impact water resource management in your region?	90
+Msc in Environmental Engineering and Management	What technologies are most promising for wastewater treatment today?	60
+Msc in Environmental Engineering and Management	Discuss the economic implications of transitioning to renewable energy sources.	90
+Msc in Environmental Engineering and Management	How would you assess the environmental impact of a new construction project?	120
+Msc in Environmental Engineering and Management	What is the difference between circular economy and linear economy models?	60
+Msc in Environmental Engineering and Management	Describe a time you advocated for a sustainable practice in your personal or professional life.	120
+Master's degree in Structural Engineering	How does a shear wall differ from a moment-resisting frame in resisting lateral loads?	60
+Master's degree in Structural Engineering	When would you choose a steel structure over a concrete one for a high-rise building?	60
+Master's degree in Structural Engineering	Explain the concept of ductility and why it is crucial in earthquake engineering.	60
+Master's degree in Structural Engineering	What are the primary causes of long-term deflection in reinforced concrete beams?	60
+Master's degree in Structural Engineering	How do environmental factors influence your choice of construction materials?	60
+Master's degree in Structural Engineering	Describe your experience with structural analysis software like SAP2000 or ETABS.	60
+Master's degree in Structural Engineering	What is the function of a stirrup in a reinforced concrete beam?	45
+Master's degree in Structural Engineering	How do you ensure the stability of a structure during the construction phase?	90
+Master's degree in Automotive Engineering	What are the main technical hurdles in achieving Level 5 autonomous driving?	90
+Master's degree in Automotive Engineering	Compare hydrogen fuel cells versus lithium-ion batteries for heavy-duty transport.	90

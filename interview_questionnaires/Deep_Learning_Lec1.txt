@@ -1,43 +1,28 @@
 Study_Program	Question	Time
-Master's degree in Biomedical Engineering 🧬	Describe a specific medical device that you believe needs significant improvement and how you would approach it.	90
-Master's degree in Biomedical Engineering 🧬	How do you balance the trade-off between functionality and biocompatibility in material selection?	60
-Master's degree in Biomedical Engineering 🧬	Explain the concept of tissue engineering to someone without a medical background.	60
-Master's degree in Biomedical Engineering 🧬	What role does signal processing play in modern diagnostic equipment like ECGs?	60
-Master's degree in Biomedical Engineering 🧬	Discuss a recent breakthrough in biomedical research that influences your study goals.	90
-Master's degree in Biomedical Engineering 🧬	How do you plan to handle the ethical considerations involved in genetic engineering or human trials?	90
-Master's degree in Biomedical Engineering 🧬	What programming languages or software tools have you used for biological data analysis?	45
-Master's degree in Biomedical Engineering 🧬	Where do you see the intersection of AI and biomedical engineering in the next decade?	90
-Master's degree in Aerospace Engineering 🛰️	How does the Reynolds number influence the design of an airfoil?	60
-Master's degree in Aerospace Engineering 🛰️	Discuss the primary challenges in developing sustainable aviation fuels.	90
-Master's degree in Aerospace Engineering 🛰️	What materials would you select for a high-stress turbine blade and why?	60
-Master's degree in Aerospace Engineering 🛰️	Explain the difference between static and dynamic stability in aircraft design.	60
-Master's degree in Aerospace Engineering 🛰️	How would you approach the thermal management of a satellite in orbit?	90
-Master's degree in Aerospace Engineering 🛰️	What is your opinion on the commercialization of space travel?	90
-Master's degree in Aerospace Engineering 🛰️	Describe a time you had to troubleshoot a mechanical failure in a project.	120
-Master's degree in Aerospace Engineering 🛰️	How do computational fluid dynamics (CFD) simulations compare to wind tunnel testing?	90
-Master's degree in Electronics Engineering ⚡	Explain the difference between a microcontroller and a microprocessor.	60
-Master's degree in Electronics Engineering ⚡	How would you reduce noise in a sensitive analog signal path?	90
-Master's degree in Electronics Engineering ⚡	What are the advantages of using FPGA over traditional ASICs in prototyping?	60
-Master's degree in Electronics Engineering ⚡	Describe the latest trends in semiconductor manufacturing that interest you.	60
-Master's degree in Electronics Engineering ⚡	How do you approach power management in battery-operated IoT devices?	90
-Master's degree in Electronics Engineering ⚡	Can you explain the significance of bandgap in semiconductor materials?	60
-Master's degree in Electronics Engineering ⚡	What was the most complex circuit you have designed and tested?	120
-Master's degree in Electronics Engineering ⚡	How do communication protocols like SPI and I2C differ in application?	60
-Msc in Environmental Engineering and Management	What strategies would you propose for effective solid waste management in a dense urban area?	90
-Msc in Environmental Engineering and Management	Explain the concept of Life Cycle Assessment (LCA) and its importance.	60
-Msc in Environmental Engineering and Management	How does climate change impact water resource management in your region?	90
-Msc in Environmental Engineering and Management	What technologies are most promising for wastewater treatment today?	60
-Msc in Environmental Engineering and Management	Discuss the economic implications of transitioning to renewable energy sources.	90
-Msc in Environmental Engineering and Management	How would you assess the environmental impact of a new construction project?	120
-Msc in Environmental Engineering and Management	What is the difference between circular economy and linear economy models?	60
-Msc in Environmental Engineering and Management	Describe a time you advocated for a sustainable practice in your personal or professional life.	120
-Master's degree in Structural Engineering	How does a shear wall differ from a moment-resisting frame in resisting lateral loads?	60
-Master's degree in Structural Engineering	When would you choose a steel structure over a concrete one for a high-rise building?	60
-Master's degree in Structural Engineering	Explain the concept of ductility and why it is crucial in earthquake engineering.	60
-Master's degree in Structural Engineering	What are the primary causes of long-term deflection in reinforced concrete beams?	60
-Master's degree in Structural Engineering	How do environmental factors influence your choice of construction materials?	60
-Master's degree in Structural Engineering	Describe your experience with structural analysis software like SAP2000 or ETABS.	60
-Master's degree in Structural Engineering	What is the function of a stirrup in a reinforced concrete beam?	45
-Master's degree in Structural Engineering	How do you ensure the stability of a structure during the construction phase?	90
-Master's degree in Automotive Engineering	What are the main technical hurdles in achieving Level 5 autonomous driving?	90
-Master's degree in Automotive Engineering	Compare hydrogen fuel cells versus lithium-ion batteries for heavy-duty transport.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	In your own words, what is deep learning, and how does it differ from traditional machine learning with hand-engineered features?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Why is deep learning having such an impact now? Name the factors that made it practical.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Why are hand-engineered features considered brittle and hard to scale?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Describe the perceptron and walk through its forward propagation step by step.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What role does the bias term play in a perceptron?	45
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Why do neural networks need non-linear activation functions? What would happen if we used only linear ones?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Compare sigmoid, hyperbolic tangent, and ReLU. When would you choose each one?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Given a perceptron with a sigmoid activation, explain how the weights define a decision boundary in the input space.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	How does a multi-output perceptron differ from a single-output one, and when would you use it?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Explain how perceptrons are stacked to form a single-layer network and then a deep neural network.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What is a hidden layer, and why is it called hidden?	45
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Walk through the "will I pass this class?" example: what are the inputs, what does the output mean, and how would you train it?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What is a loss function, and how does it relate to the empirical loss over a dataset?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	When would you use binary cross entropy loss and when would you use mean squared error loss?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Explain gradient descent to someone with no machine learning background.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	List the steps of the gradient descent algorithm, from weight initialization to convergence.	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Why are the weights initialized randomly instead of all set to zero?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Explain backpropagation and how the chain rule is used to compute gradients in a network.	120
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What happens if the learning rate is too small? What happens if it is too large?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	How do adaptive learning rate methods such as Adam or RMSProp help with training?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What is the difference between full-batch gradient descent, stochastic gradient descent, and mini-batch gradient descent?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What are the advantages of training with mini-batches, and how would you choose a batch size?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	What is overfitting? How can you recognize it by looking at training and test loss curves?	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Explain how dropout regularization works and why randomly turning off neurons can improve generalization.	90
+MIT Deep Learning 6.S191 – Lecture 1 🧠	How does early stopping work, and what data do you need in order to apply it correctly?	60
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Describe a real-world problem from your own field where you would apply a neural network, and how you would set it up.	120
+MIT Deep Learning 6.S191 – Lecture 1 🧠	Which concept from Lecture 1 did you find hardest to understand, and how did you try to make sense of it?	90
